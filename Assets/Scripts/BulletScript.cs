@@ -4,6 +4,8 @@ using System.Collections;
 public class BulletScript : MonoBehaviour {
 
 	public GameObject Explosion;
+
+	public Collider turretCollider;
 	
 	// Use this for initialization
 	void Start () {
@@ -17,10 +19,13 @@ public class BulletScript : MonoBehaviour {
 
 	void OnCollisionEnter(Collision collision) {
 
-		if (Explosion != null) {
-			Instantiate(Explosion, transform.position, Quaternion.identity);
-		}
+		if (collision.collider != turretCollider) {
 
-		Destroy (gameObject);
+			if (Explosion != null) {
+				Instantiate (Explosion, transform.position, Quaternion.identity);
+			}
+
+			Destroy (gameObject);
+		}
 	}
 }
