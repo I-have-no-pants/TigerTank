@@ -14,11 +14,11 @@ public class HealthComponent : MonoBehaviour {
 			return health;
 		}
 		set {
-			if (value <= 0) {
+			if (value <= 0 && health > 0) {
 				health = 0;
 				SendMessage("OnDeath");
 				Debug.Log(gameObject + " died!");
-				Destroy(this);
+				//Destroy(this);
 
 			} else {
 				SendMessage("OnDamage",value,SendMessageOptions.DontRequireReceiver);
