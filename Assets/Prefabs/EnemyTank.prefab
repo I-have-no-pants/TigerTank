@@ -463,6 +463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MaxDistance: 100
+  MuzzleFlash: {fileID: 110436, guid: 0fdc50f307897ad45ac5a34d3fdd9cb3, type: 2}
   bullet: {fileID: 11401048, guid: b5570694f31426f4eacdbeb554fbf0af, type: 2}
   muzzle: {fileID: 410648}
   Velocity: 50

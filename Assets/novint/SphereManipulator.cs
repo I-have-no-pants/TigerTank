@@ -8,6 +8,8 @@ public class SphereManipulator : MonoBehaviour {
 	bool [] curr_buttons = new bool[4];
 	public Vector3 constantforce;
 
+	public Vector3 TurretForce;
+
 	public Transform hapticTip;
 	public Transform godObject;
 	public float godObjectMass;
@@ -93,7 +95,7 @@ public class SphereManipulator : MonoBehaviour {
 		godObject.position = posGod;
 		godObject.rotation = new Quaternion(0,0,0,1);
 
-		FalconUnity.setForceField(falcon_num,constantforce);
+		FalconUnity.setForceField(falcon_num,constantforce+TurretForce);
 				 
 	}
 	

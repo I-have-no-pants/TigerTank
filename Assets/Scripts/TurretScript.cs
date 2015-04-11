@@ -5,6 +5,8 @@ public class TurretScript : MonoBehaviour {
 
 	public float MaxDistance;
 
+	public GameObject MuzzleFlash;
+
 	public BulletScript bullet;
 	public Transform muzzle;
 	public float Velocity;
@@ -13,6 +15,9 @@ public class TurretScript : MonoBehaviour {
 		BulletScript b = Instantiate (bullet, muzzle.position, muzzle.rotation) as BulletScript;
 		b.turretCollider = GetComponent<Collider> ();
 		b.GetComponent<Rigidbody> ().velocity = Velocity * muzzle.forward;
+		if(MuzzleFlash)
+			Instantiate (MuzzleFlash, muzzle.position, muzzle.rotation);
+		
 	}
 
 	public GameObject GetVisualTarget() {
