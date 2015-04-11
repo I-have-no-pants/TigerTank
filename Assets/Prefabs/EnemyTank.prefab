@@ -12,6 +12,7 @@ GameObject:
   - 195: {fileID: 19556286}
   - 114: {fileID: 11474690}
   - 114: {fileID: 11462324}
+  - 114: {fileID: 11420670}
   m_Layer: 0
   m_Name: EnemyTank
   m_TagString: Untagged
@@ -243,7 +244,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: c45f07c7720ca004e93a8649c4ac469c, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -372,6 +373,17 @@ MonoBehaviour:
   bullet: {fileID: 11401048, guid: b5570694f31426f4eacdbeb554fbf0af, type: 2}
   muzzle: {fileID: 410648}
   Velocity: 50
+--- !u!114 &11420670
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8575532292e4c4c8d0635158c300aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11436910
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -427,8 +439,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turret: {fileID: 11407688}
   target: {fileID: 0}
-  distance: 10
+  distance: 16
   EnemyTeam: 0
+  ReloadTime: 2
 --- !u!195 &19556286
 NavMeshAgent:
   m_ObjectHideFlags: 1
