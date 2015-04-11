@@ -3,7 +3,11 @@ using System.Collections;
 
 public class TankExplode : MonoBehaviour {
 
+
+
 	public void OnDeath() {
+		FindObjectOfType<SpawnerScript> ().EnemyKilled ();
+
 		Destroy (GetComponent<AITactics>());
 		Destroy (GetComponent<AINavigator>());
 		Destroy (GetComponent<NavMeshAgent>());
