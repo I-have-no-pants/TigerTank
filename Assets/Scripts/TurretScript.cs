@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class TurretScript : MonoBehaviour {
-
+	AudioSource gunSound;
 	public float MaxDistance;
 
 	public BulletScript bullet;
@@ -13,6 +13,9 @@ public class TurretScript : MonoBehaviour {
 		BulletScript b = Instantiate (bullet, muzzle.position, muzzle.rotation) as BulletScript;
 		b.turretCollider = GetComponent<Collider> ();
 		b.GetComponent<Rigidbody> ().velocity = Velocity * muzzle.forward;
+
+		gunSound = GetComponent<AudioSource> ();
+		gunSound.Play ();
 	}
 
 	public GameObject GetVisualTarget() {

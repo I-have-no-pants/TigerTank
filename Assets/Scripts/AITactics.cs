@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class AITactics : MonoBehaviour {
-	
+	AudioSource gunSound;
 	public TurretScript turret;
 	private AINavigator navigator;
 	
@@ -17,6 +17,7 @@ public class AITactics : MonoBehaviour {
 
 	void Start() {
 		navigator = GetComponent<AINavigator> ();
+		gunSound = GetComponent<AudioSource> ();
 	}
 
 	// Logic for sorting
@@ -54,6 +55,9 @@ public class AITactics : MonoBehaviour {
 			if (h && h.Team == EnemyTeam) {
 				if (reloadTimer<=0) {
 					turret.Fire();
+					if(gunSound != null) {
+						gunSound.Play ();
+					}
 					reloadTimer = ReloadTime;
 				}
 			}
