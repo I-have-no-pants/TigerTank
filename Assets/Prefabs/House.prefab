@@ -12,6 +12,7 @@ GameObject:
   - 65: {fileID: 6535876}
   - 23: {fileID: 2348976}
   - 114: {fileID: 11447300}
+  - 114: {fileID: 11453738}
   m_Layer: 0
   m_Name: House
   m_TagString: Untagged
@@ -26,7 +27,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 105762}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -128.699997, y: .5, z: -128.800003}
+  m_LocalPosition: {x: -101.400002, y: .330000013, z: -128.800003}
   m_LocalScale: {x: 4.23113155, y: 4.2311306, z: 4.2311306}
   m_Children: []
   m_Father: {fileID: 0}
@@ -41,7 +42,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 918357f76a0df57478151ed6d49231bf, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 1
@@ -88,6 +89,18 @@ MonoBehaviour:
   Team: 0
   _MAXHEALTH: 10
   health: 10
+--- !u!114 &11453738
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 709e4a5c0f7205f44a1d5191826a5184, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Swedishness: 5
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

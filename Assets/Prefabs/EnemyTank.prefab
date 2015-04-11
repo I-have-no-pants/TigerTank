@@ -33,6 +33,7 @@ GameObject:
   - 23: {fileID: 2376838}
   - 114: {fileID: 11407688}
   - 114: {fileID: 11437748}
+  - 54: {fileID: 5413008}
   m_Layer: 0
   m_Name: Turret
   m_TagString: Untagged
@@ -102,6 +103,7 @@ GameObject:
   - 33: {fileID: 3329000}
   - 65: {fileID: 6550160}
   - 23: {fileID: 2317070}
+  - 54: {fileID: 5434364}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -310,6 +312,36 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 160754}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!54 &5413008
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 113260}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: .0500000007
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!54 &5434364
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 190344}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: .0500000007
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!65 &6536450
 BoxCollider:
   m_ObjectHideFlags: 1

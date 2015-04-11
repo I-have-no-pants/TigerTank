@@ -215,10 +215,6 @@ Prefab:
       propertyPath: m_Name
       value: House 1
       objectReference: {fileID: 0}
-    - target: {fileID: 2348976, guid: 9722c302b308e584eb63eff13f26831f, type: 2}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 918357f76a0df57478151ed6d49231bf, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9722c302b308e584eb63eff13f26831f, type: 2}
   m_IsPrefabParent: 0
@@ -417,22 +413,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9722c302b308e584eb63eff13f26831f, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &222409724 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 105762, guid: 9722c302b308e584eb63eff13f26831f, type: 2}
-  m_PrefabInternal: {fileID: 37935421}
---- !u!114 &222409725
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 222409724}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 709e4a5c0f7205f44a1d5191826a5184, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Swedishness: 5
 --- !u!1 &228061986 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 110920, guid: f501fba4fde01bc44ada997b66b8da51, type: 2}
