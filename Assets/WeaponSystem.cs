@@ -3,6 +3,8 @@ using System.Collections;
 
 public class WeaponSystem : MonoBehaviour {
 
+	public AudioSource reload;
+
 	public int[] Ammo;
 	public int ChoosenWeapon;
 
@@ -36,9 +38,16 @@ public class WeaponSystem : MonoBehaviour {
 		}
 	}
 
+	public void FindCrate() {
+		Ammo [0] += 5;
+		reload.Play ();
+	}
+
+
 	public void Load() {
+
 		if (loadState == LoadState.NotLoaded) {
-			timer = LoadTime;
+			timer = LoadTime;		reload.Play ();
 			loadState = LoadState.Loading; // Quickload!
 		}
 	}

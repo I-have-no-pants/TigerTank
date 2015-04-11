@@ -4,9 +4,12 @@ using System.Collections;
 
 public class SharedGUIHelper : MonoBehaviour {
 
+	public WeaponSystem weapon;
 	public Slider Swedishness;
 	public Slider Life;
 	private GameManager manager;
+
+	public Text ammo;
 
 	public HealthComponent Tank;
 
@@ -26,5 +29,7 @@ public class SharedGUIHelper : MonoBehaviour {
 		Life.value = Tank.Health;
 		Life.maxValue = Tank._MAXHEALTH;
 		SetSwedishness ();
+
+		ammo.text = "Ammo: " + weapon.Ammo [0];
 	}
 }

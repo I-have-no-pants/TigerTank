@@ -5,7 +5,16 @@ public class RussianSoldierDeath : MonoBehaviour {
 
 	public GameObject Blood;
 
+	public GameObject AmmoBox;
+
+	public float AmmoChance;
+
 	public void OnDeath() {
+
+		if (Random.Range (0, 1) < AmmoChance) {
+			Instantiate(AmmoBox, transform.position, Quaternion.identity);
+		}
+
 		FindObjectOfType<SpawnerScript> ().EnemyKilled ();
 		
 		Destroy (GetComponent<RussianSoldierAI>());

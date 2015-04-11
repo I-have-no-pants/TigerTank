@@ -56,8 +56,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 105762}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -101.400002, y: .330000013, z: -128.800003}
+  m_LocalRotation: {x: 0, y: .508399248, z: 0, w: .861121535}
+  m_LocalPosition: {x: -117.788239, y: -3, z: -201.801697}
   m_LocalScale: {x: 4.23113155, y: 4.2311306, z: 4.2311306}
   m_Children:
   - {fileID: 464678}
@@ -143,8 +143,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Team: 0
-  _MAXHEALTH: 10
-  health: 10
+  _MAXHEALTH: 50
+  health: 50
 --- !u!114 &11453738
 MonoBehaviour:
   m_ObjectHideFlags: 1

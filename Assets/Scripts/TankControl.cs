@@ -7,6 +7,8 @@ public class TankControl : MonoBehaviour {
 	public WheelCollider[] m_WheelCollidersRight;
 	public float Speed;
 
+	public AudioSource a;
+
 	// Use this for initialization
 	void Start () {
 
@@ -19,6 +21,8 @@ public class TankControl : MonoBehaviour {
 
 		float leftThrustTorque = threadsLeft * Speed;
 		float rightThrustTorque = threadsRight * Speed;
+
+		a.volume = Mathf.Max (Mathf.Abs (threadsLeft), Mathf.Abs (threadsRight));
 
 		for (int i = 0; i < m_WheelCollidersLeft.Length; i++) {
 			m_WheelCollidersLeft[i].motorTorque = leftThrustTorque;

@@ -20,9 +20,21 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
+	public GameObject Loose;
+
+	public void GameOver() {
+		Loose.SetActive (true);
+	}
+
+	public void Restart() {
+		Application.LoadLevel (0);
+	}
+
 	public void DamageSweden (int swedishness)
 	{
 		Swedishness -= swedishness;
+		if (Swedishness <= 0)
+			GameOver ();
 	}
 
 }

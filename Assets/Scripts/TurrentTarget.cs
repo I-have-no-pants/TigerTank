@@ -15,12 +15,19 @@ public class TurrentTarget : MonoBehaviour {
 	}
 
 	public HealthComponent FindTarget() {
-		foreach(var h in FindObjectsOfType<HealthComponent>()) {
-			if (h.Team == EnemyTeam && AINavigator.CanReachTargetFrom(turret.muzzle.transform.position, h.gameObject))
-				return h;
+		float n = float.PositiveInfinity;
+		HealthComponent bh = null;
 
+		foreach(var h in FindObjectsOfType<HealthComponent>()) {
+			if (h.Team == EnemyTeam && AINavigator.CanReachTargetFrom(turret.muzzle.transform.position, h.gameObject)) {
+				float d = (h.transform.position - transform.position).magnitude;
+				if (d < n) {
+					bh = h;
+					n = d;
+				}
+			}
 		}
-		return null;
+		return bh;
 	}
 
 	public float MaxRotation;
