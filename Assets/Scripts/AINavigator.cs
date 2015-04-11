@@ -34,7 +34,7 @@ public class AINavigator : MonoBehaviour {
 			if (hit.collider.gameObject == null)
 				return false;
 
-			Debug.Log(hit.collider.gameObject);
+			//Debug.Log(hit.collider.gameObject);
 
 			foreach (var t in hit.collider.gameObject.GetComponentsInParent<Transform>()) {
 				if (t.gameObject==target)

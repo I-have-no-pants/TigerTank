@@ -12,6 +12,9 @@ public class AITactics : MonoBehaviour {
 
 	public int EnemyTeam;
 
+	public float ReloadTime;
+	private float reloadTimer;
+
 	void Start() {
 		navigator = GetComponent<AINavigator> ();
 	}
@@ -28,6 +31,8 @@ public class AITactics : MonoBehaviour {
 
 	// Update is called once per frame
 	void FixedUpdate() {
+		if (reloadTimer>0)
+			reloadTimer -= Time.fixedDeltaTime;
 
 		if (target == null || target.IsDead)
 			target = FindTarget ();
@@ -47,7 +52,10 @@ public class AITactics : MonoBehaviour {
 				h = turretTarget.GetComponentInParent<HealthComponent>();
 				
 			if (h && h.Team == EnemyTeam) {
-				turret.Fire();
+				if (reloadTimer<=0) {
+					turret.Fire();
+					reloadTimer = ReloadTime;
+				}
 			}
 		}
 	
