@@ -7,6 +7,8 @@ public class TurrentTarget : MonoBehaviour {
 
 	public HealthComponent target;
 
+	public int EnemyTeam;
+
 	// Use this for initialization
 	void Start () {
 	
@@ -14,7 +16,7 @@ public class TurrentTarget : MonoBehaviour {
 
 	public HealthComponent FindTarget() {
 		foreach(var h in FindObjectsOfType<HealthComponent>()) {
-			if (AITactics.CanReachTargetFrom(turret.muzzle.transform.position, h.gameObject))
+			if (h.Team == EnemyTeam && AINavigator.CanReachTargetFrom(turret.muzzle.transform.position, h.gameObject))
 				return h;
 
 		}
@@ -26,7 +28,7 @@ public class TurrentTarget : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () {
 
-		if (target == null || !AITactics.CanReachTargetFrom(turret.muzzle.transform.position, target.gameObject)) {
+		if (target == null || !AINavigator.CanReachTargetFrom(turret.muzzle.transform.position, target.gameObject)) {
 			target = FindTarget();
 		}
 
