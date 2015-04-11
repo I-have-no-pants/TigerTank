@@ -10,11 +10,12 @@ public class BodyGUIHelper : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		manager = FindObjectOfType<GameManager> ();
+
 	}
 
 	private void SetSwedishness() {
-		Swedishness.value = manager.Swedishness;
 		Swedishness.maxValue = manager.MaxSwedishness;
+		Swedishness.value = manager.Swedishness;
 	}
 	
 	// Update is called once per frame
