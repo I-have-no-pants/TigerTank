@@ -1,0 +1,107 @@
+﻿Merge remote-tracking branch 'origin/martin'
+
+Conflicts:
+	Assets/Models.meta
+	Assets/Models/Ceramik mugg.blend.meta
+	Assets/World.unity
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   Assets/Editor.meta
+#	new file:   Assets/Editor/CrossPlatformInput.meta
+#	new file:   Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs
+#	new file:   Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs.meta
+#	modified:   Assets/Models.meta
+#	modified:   Assets/Models/Ceramik mugg.blend.meta
+#	new file:   Assets/Standard Assets.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt
+#	new file:   Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png
+#	new file:   Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta
+#	new file:   Assets/Tank.prefab
+#	new file:   Assets/Tank.prefab.meta
+#	new file:   Assets/TankControl.cs
+#	new file:   Assets/TankControl.cs.meta
+#	modified:   Assets/World.unity
+#	modified:   ProjectSettings/ProjectSettings.asset
+#
+
