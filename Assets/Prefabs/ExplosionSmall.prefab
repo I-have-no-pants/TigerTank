@@ -41,7 +41,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c789abadf1eea849a5ef859c9bf900d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Size: .300000012
+  Size: .5
   Damage: 1
   Lifetime: 2
   Force: 0
