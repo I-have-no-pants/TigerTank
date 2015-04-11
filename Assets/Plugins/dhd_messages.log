@@ -14391,3 +14391,1852 @@
 [dhdComUSB::processData():19.46.12.5565] - G_C
 [dhdComUSB::processData():19.46.13.0579] - G_C
 [dhdComUSB::processData():19.46.13.5572] - G_C
+[dhdComUSB::processData():19.46.14.0586] - G_C
+[dhdComUSB::processData():19.46.14.5569] - G_C
+[dhdComUSB::processData():19.46.15.0583] - G_C
+[dhdComUSB::processData():19.46.15.5577] - G_C
+[dhdComUSB::processData():19.46.16.0590] - G_C
+[dhdComUSB::processData():19.46.16.5574] - G_C
+[dhdComUSB::processData():19.46.17.0587] - G_C
+[dhdComUSB::processData():19.46.17.5581] - G_C
+[dhdComUSB::processData():19.46.18.0595] - G_C
+[dhdComUSB::processData():19.46.18.5585] - G_C
+[dhdComUSB::processData():19.46.19.0592] - G_C
+[dhdComUSB::processData():19.46.19.5585] - G_C
+[dhdComUSB::processData():19.46.20.0597] - G_C
+[dhdComUSB::processData():19.46.20.5592] - G_C
+[dhdComUSB::processData():19.46.21.0588] - G_C
+[dhdComUSB::processData():19.46.21.5599] - G_C
+[dhdComUSB::processData():19.46.22.0593] - G_C
+[dhdComUSB::processData():19.46.22.5606] - G_C
+[dhdComUSB::processData():19.46.23.0590] - G_C
+[dhdComUSB::processData():19.46.23.5604] - G_C
+[dhdComUSB::processData():19.46.24.0597] - G_C
+[dhdComUSB::processData():19.46.24.5610] - G_C
+[dhdComUSB::processData():19.46.25.0605] - G_C
+[dhdComUSB::processData():19.46.25.5608] - G_C
+[dhdComUSB::processData():19.46.26.0601] - G_C
+[dhdComUSB::processData():19.46.26.5615] - G_C
+[dhdComUSB::processData():19.46.27.0609] - G_C
+[dhdComUSB::processData():19.46.27.5612] - G_C
+[dhdComUSB::processData():19.46.28.0605] - G_C
+[dhdComUSB::processData():19.46.28.5619] - G_C
+[dhdComUSB::processData():19.46.29.0633] - G_C
+[dhdComUSB::processData():19.46.29.5626] - G_C
+[dhdComUSB::processData():19.46.30.0620] - G_C
+[dhdComUSB::processData():19.46.30.5613] - G_C
+[dhdComUSB::processData():19.46.31.0627] - G_C
+[dhdComUSB::processData():19.46.31.5621] - G_C
+[dhdComUSB::processData():19.46.32.0634] - G_C
+[dhdComUSB::processData():19.46.32.5617] - G_C
+[dhdComUSB::processData():19.46.33.0631] - G_C
+[dhdComUSB::processData():19.46.33.5624] - G_C
+[dhdComUSB::processData():19.46.34.0638] - G_C
+[dhdComUSB::processData():19.46.34.5621] - G_C
+[dhdComUSB::processData():19.46.35.0637] - G_C
+[dhdComUSB::processData():19.46.35.5630] - G_C
+[dhdComUSB::processData():19.46.36.0643] - G_C
+[dhdComUSB::processData():19.46.36.5637] - G_C
+[dhdComUSB::processData():19.46.37.0631] - G_C
+[dhdComUSB::processData():19.46.37.5646] - G_C
+[dhdComUSB::processData():19.46.38.0637] - G_C
+[dhdComUSB::processData():19.46.38.5641] - G_C
+[dhdComUSB::processData():19.46.39.0635] - G_C
+[dhdComUSB::processData():19.46.39.5648] - G_C
+[dhdComUSB::processData():19.46.40.0642] - G_C
+[dhdComUSB::processData():19.46.40.5647] - G_C
+[dhdComUSB::processData():19.46.41.0641] - G_C
+[dhdComUSB::processData():19.46.41.5653] - G_C
+[dhdComUSB::processData():19.46.42.0647] - G_C
+[dhdComUSB::processData():19.46.42.5651] - G_C
+[dhdComUSB::processData():19.46.43.0644] - G_C
+[dhdComUSB::processData():19.46.43.5649] - G_C
+[dhdComUSB::processData():19.46.44.0656] - G_C
+[dhdComUSB::processData():19.46.44.5662] - G_C
+[dhdComUSB::processData():19.46.45.0655] - G_C
+[dhdComUSB::processData():19.46.45.5652] - G_C
+[dhdComUSB::processData():19.46.46.0665] - G_C
+[dhdComUSB::processData():19.46.46.5659] - G_C
+[dhdComUSB::processData():19.46.47.0663] - G_C
+[dhdComUSB::processData():19.46.47.5660] - G_C
+[dhdComUSB::processData():19.46.48.0672] - G_C
+[dhdComUSB::processData():19.46.48.5667] - G_C
+[dhdComUSB::processData():19.46.49.0662] - G_C
+[dhdComUSB::processData():19.46.49.5677] - G_C
+[dhdComUSB::processData():19.46.50.0673] - G_C
+[dhdComUSB::processData():19.46.50.5672] - G_C
+[dhdComUSB::processData():19.46.51.0665] - G_C
+[dhdComUSB::processData():19.46.51.5679] - G_C
+[dhdComUSB::processData():19.46.52.0673] - G_C
+[dhdComUSB::processData():19.46.52.5676] - G_C
+[dhdComUSB::processData():19.46.53.0680] - G_C
+[dhdComUSB::processData():19.46.53.5687] - G_C
+[dhdComUSB::processData():19.46.54.0688] - G_C
+[dhdComUSB::processData():19.46.54.5682] - G_C
+[dhdComUSB::processData():19.46.55.0684] - G_C
+[dhdComUSB::processData():19.46.55.5698] - G_C
+[dhdComUSB::processData():19.46.56.0692] - G_C
+[dhdComUSB::processData():19.46.56.5684] - G_C
+[dhdComUSB::processData():19.46.57.0698] - G_C
+[dhdComUSB::processData():19.46.57.5682] - G_C
+[dhdComUSB::processData():19.46.58.0696] - G_C
+[dhdComUSB::processData():19.46.58.5690] - G_C
+[dhdComUSB::processData():19.46.59.0694] - G_C
+[dhdComUSB::processData():19.46.59.5687] - G_C
+[dhdComUSB::processData():19.47.00.0700] - G_C
+[dhdComUSB::processData():19.47.00.5704] - G_C
+[dhdComUSB::processData():19.47.01.0698] - G_C
+[dhdComUSB::processData():19.47.01.5706] - G_C
+[dhdComUSB::processData():19.47.02.0703] - G_C
+[dhdComUSB::processData():19.47.02.5696] - G_C
+[dhdComUSB::processData():19.47.03.0709] - G_C
+[dhdComUSB::processData():19.47.03.5716] - G_C
+[dhdComUSB::processData():19.47.04.0699] - G_C
+[dhdComUSB::processData():19.47.04.5716] - G_C
+[dhdComUSB::processData():19.47.05.0708] - G_C
+[dhdComUSB::processData():19.47.05.5704] - G_C
+[dhdComUSB::processData():19.47.06.0716] - G_C
+[dhdComUSB::processData():19.47.06.5711] - G_C
+[dhdComUSB::processData():19.47.07.0716] - G_C
+[dhdComUSB::processData():19.47.07.5723] - G_C
+[dhdComUSB::processData():19.47.08.0716] - G_C
+[dhdComUSB::processData():19.47.08.5721] - G_C
+[dhdComUSB::processData():19.47.09.0725] - G_C
+[dhdComUSB::processData():19.47.09.5720] - G_C
+[dhdComUSB::processData():19.47.10.0733] - G_C
+[dhdComUSB::processData():19.47.10.5717] - G_C
+[dhdComUSB::processData():19.47.11.0730] - G_C
+[dhdComUSB::processData():19.47.11.5725] - G_C
+[dhdComUSB::processData():19.47.12.0737] - G_C
+[dhdComUSB::processData():19.47.12.5731] - G_C
+[dhdComUSB::processData():19.47.13.0734] - G_C
+[dhdComUSB::processData():19.47.13.5731] - G_C
+[dhdComUSB::processData():19.47.14.0743] - G_C
+[dhdComUSB::processData():19.47.14.5739] - G_C
+[dhdComUSB::processData():19.47.15.0732] - G_C
+[dhdComUSB::processData():19.47.15.5746] - G_C
+[dhdComUSB::processData():19.47.16.0739] - G_C
+[dhdComUSB::processData():19.47.16.5753] - G_C
+[dhdComUSB::processData():19.47.17.0736] - G_C
+[dhdComUSB::processData():19.47.17.5750] - G_C
+[dhdComUSB::processData():19.47.18.0743] - G_C
+[dhdComUSB::processData():19.47.18.5757] - G_C
+[dhdComUSB::processData():19.47.19.0750] - G_C
+[dhdComUSB::processData():19.47.19.5754] - G_C
+[dhdComUSB::processData():19.47.20.0757] - G_C
+[dhdComUSB::processData():19.47.20.5760] - G_C
+[dhdComUSB::processData():19.47.21.0753] - G_C
+[dhdComUSB::processData():19.47.21.5767] - G_C
+[dhdComUSB::processData():19.47.22.0760] - G_C
+[dhdComUSB::processData():19.47.22.5754] - G_C
+[dhdComUSB::processData():19.47.23.0768] - G_C
+[dhdComUSB::processData():19.47.23.5762] - G_C
+[dhdComUSB::processData():19.47.24.0765] - G_C
+[dhdComUSB::processData():19.47.24.5759] - G_C
+[dhdComUSB::processData():19.47.25.0773] - G_C
+[dhdComUSB::processData():19.47.25.5768] - G_C
+[dhdComUSB::processData():19.47.26.0780] - G_C
+[dhdComUSB::processData():19.47.26.5772] - G_C
+[dhdComUSB::processData():19.47.27.0777] - G_C
+[dhdComUSB::processData():19.47.27.5770] - G_C
+[dhdComUSB::processData():19.47.28.0777] - G_C
+[dhdComUSB::processData():19.47.28.5782] - G_C
+[dhdComUSB::processData():19.47.29.0775] - G_C
+[dhdComUSB::processData():19.47.29.5781] - G_C
+[dhdComUSB::processData():19.47.30.0784] - G_C
+[dhdComUSB::processData():19.47.30.5777] - G_C
+[dhdComUSB::processData():19.47.31.0792] - G_C
+[dhdComUSB::processData():19.47.31.5784] - G_C
+[dhdComUSB::processData():19.47.32.0798] - G_C
+[dhdComUSB::processData():19.47.32.5790] - G_C
+[dhdComUSB::processData():19.47.33.0796] - G_C
+[dhdComUSB::processData():19.47.33.5786] - G_C
+[dhdComUSB::processData():19.47.34.0794] - G_C
+[dhdComUSB::processData():19.47.34.5806] - G_C
+[dhdComUSB::processData():19.47.35.0789] - G_C
+[dhdComUSB::processData():19.47.35.5802] - G_C
+[dhdComUSB::processData():19.47.36.0803] - G_C
+[dhdComUSB::processData():19.47.36.5796] - G_C
+[dhdComUSB::processData():19.47.37.0801] - G_C
+[dhdComUSB::processData():19.47.37.5818] - G_C
+[dhdComUSB::processData():19.47.38.0802] - G_C
+[dhdComUSB::processData():19.47.38.5800] - G_C
+[dhdComUSB::processData():19.47.39.0803] - G_C
+[dhdComUSB::processData():19.47.39.5806] - G_C
+[dhdComUSB::processData():19.47.40.0812] - G_C
+[dhdComUSB::processData():19.47.40.5826] - G_C
+[dhdComUSB::processData():19.47.41.0824] - G_C
+[dhdComUSB::processData():19.47.41.5817] - G_C
+[dhdComUSB::processData():19.47.42.0821] - G_C
+[dhdComUSB::processData():19.47.42.5813] - G_C
+[dhdComUSB::processData():19.47.43.0826] - G_C
+[dhdComUSB::processData():19.47.43.5822] - G_C
+[dhdComUSB::processData():19.47.44.0815] - G_C
+[dhdComUSB::processData():19.47.44.5826] - G_C
+[dhdComUSB::processData():19.47.45.0817] - G_C
+[dhdComUSB::processData():19.47.45.5829] - G_C
+[dhdComUSB::processData():19.47.46.0835] - G_C
+[dhdComUSB::processData():19.47.46.5828] - G_C
+[dhdComUSB::processData():19.47.47.0833] - G_C
+[dhdComUSB::processData():19.47.47.5838] - G_C
+[dhdComUSB::processData():19.47.48.0832] - G_C
+[dhdComUSB::processData():19.47.48.5844] - G_C
+[dhdComUSB::processData():19.47.49.0829] - G_C
+[dhdComUSB::processData():19.47.49.5844] - G_C
+[dhdComUSB::processData():19.47.50.0836] - G_C
+[dhdComUSB::processData():19.47.50.5848] - G_C
+[dhdComUSB::processData():19.47.51.0834] - G_C
+[dhdComUSB::processData():19.47.51.5845] - G_C
+[dhdComUSB::processData():19.47.52.0839] - G_C
+[dhdComUSB::processData():19.47.52.5853] - G_C
+[dhdComUSB::processData():19.47.53.0847] - G_C
+[dhdComUSB::processData():19.47.53.5850] - G_C
+[dhdComUSB::processData():19.47.54.0854] - G_C
+[dhdComUSB::processData():19.47.54.5851] - G_C
+[dhdComUSB::processData():19.47.55.0863] - G_C
+[dhdComUSB::processData():19.47.55.5847] - G_C
+[dhdComUSB::processData():19.47.56.0861] - G_C
+[dhdComUSB::processData():19.47.56.5852] - G_C
+[dhdComUSB::processData():19.47.57.0866] - G_C
+[dhdComUSB::processData():19.47.57.5861] - G_C
+[dhdComUSB::processData():19.47.58.0864] - G_C
+[dhdComUSB::processData():19.47.58.5871] - G_C
+[dhdComUSB::processData():19.47.59.0863] - G_C
+[dhdComUSB::processData():19.47.59.5876] - G_C
+[dhdComUSB::processData():19.48.00.0859] - G_C
+[dhdComUSB::processData():19.48.00.5873] - G_C
+[dhdComUSB::processData():19.48.01.0868] - G_C
+[dhdComUSB::processData():19.48.01.5865] - G_C
+[dhdComUSB::processData():19.48.02.0883] - G_C
+[dhdComUSB::processData():19.48.02.5884] - G_C
+[dhdComUSB::processData():19.48.03.0868] - G_C
+[dhdComUSB::processData():19.48.03.5883] - G_C
+[dhdComUSB::processData():19.48.04.0876] - G_C
+[dhdComUSB::processData():19.48.04.5890] - G_C
+[dhdComUSB::processData():19.48.05.0873] - G_C
+[dhdComUSB::processData():19.48.05.5887] - G_C
+[dhdComUSB::processData():19.48.06.0880] - G_C
+[dhdComUSB::processData():19.48.06.5894] - G_C
+[dhdComUSB::processData():19.48.07.0888] - G_C
+[dhdComUSB::processData():19.48.07.5891] - G_C
+[dhdComUSB::processData():19.48.08.0895] - G_C
+[dhdComUSB::processData():19.48.08.5888] - G_C
+[dhdComUSB::processData():19.48.09.0902] - G_C
+[dhdComUSB::processData():19.48.09.5886] - G_C
+[dhdComUSB::processData():19.48.10.0905] - G_C
+[dhdComUSB::processData():19.48.10.5906] - G_C
+[dhdComUSB::processData():19.48.11.0892] - G_C
+[dhdComUSB::processData():19.48.11.5906] - G_C
+[dhdComUSB::processData():19.48.12.0900] - G_C
+[dhdComUSB::processData():19.48.12.5912] - G_C
+[dhdComUSB::processData():19.48.13.0905] - G_C
+[dhdComUSB::processData():19.48.13.5904] - G_C
+[dhdComUSB::processData():19.48.14.0915] - G_C
+[dhdComUSB::processData():19.48.14.5909] - G_C
+[dhdComUSB::processData():19.48.15.0914] - G_C
+[dhdComUSB::processData():19.48.15.5907] - G_C
+[dhdComUSB::processData():19.48.16.0922] - G_C
+[dhdComUSB::processData():19.48.16.5925] - G_C
+[dhdComUSB::processData():19.48.17.0908] - G_C
+[dhdComUSB::processData():19.48.17.5921] - G_C
+[dhdComUSB::processData():19.48.18.0915] - G_C
+[dhdComUSB::processData():19.48.18.5930] - G_C
+[dhdComUSB::processData():19.48.19.0922] - G_C
+[dhdComUSB::processData():19.48.19.5926] - G_C
+[dhdComUSB::processData():19.48.20.0933] - G_C
+[dhdComUSB::processData():19.48.20.5926] - G_C
+[dhdComUSB::processData():19.48.21.0926] - G_C
+[dhdComUSB::processData():19.48.21.5924] - G_C
+[dhdComUSB::processData():19.48.22.0927] - G_C
+[dhdComUSB::processData():19.48.22.5931] - G_C
+[dhdComUSB::processData():19.48.23.0941] - G_C
+[dhdComUSB::processData():19.48.23.5935] - G_C
+[dhdComUSB::processData():19.48.24.0938] - G_C
+[dhdComUSB::processData():19.48.24.5933] - G_C
+[dhdComUSB::processData():19.48.25.0946] - G_C
+[dhdComUSB::processData():19.48.25.5942] - G_C
+[dhdComUSB::processData():19.48.26.0943] - G_C
+[dhdComUSB::processData():19.48.26.5936] - G_C
+[dhdComUSB::processData():19.48.27.0951] - G_C
+[dhdComUSB::processData():19.48.27.5956] - G_C
+[dhdComUSB::processData():19.48.28.0939] - G_C
+[dhdComUSB::processData():19.48.28.5953] - G_C
+[dhdComUSB::processData():19.48.29.0947] - G_C
+[dhdComUSB::processData():19.48.29.5944] - G_C
+[dhdComUSB::processData():19.48.30.0953] - G_C
+[dhdComUSB::processData():19.48.30.5957] - G_C
+[dhdComUSB::processData():19.48.31.0950] - G_C
+[dhdComUSB::processData():19.48.31.5964] - G_C
+[dhdComUSB::processData():19.48.32.0968] - G_C
+[dhdComUSB::processData():19.48.32.5951] - G_C
+[dhdComUSB::processData():19.48.33.0965] - G_C
+[dhdComUSB::processData():19.48.33.5959] - G_C
+[dhdComUSB::processData():19.48.34.0973] - G_C
+[dhdComUSB::processData():19.48.34.5967] - G_C
+[dhdComUSB::processData():19.48.35.0971] - G_C
+[dhdComUSB::processData():19.48.35.5964] - G_C
+[dhdComUSB::processData():19.48.36.0978] - G_C
+[dhdComUSB::processData():19.48.36.5981] - G_C
+[dhdComUSB::processData():19.48.37.0966] - G_C
+[dhdComUSB::processData():19.48.37.5980] - G_C
+[dhdComUSB::processData():19.48.38.0975] - G_C
+[dhdComUSB::processData():19.48.38.5989] - G_C
+[dhdComUSB::processData():19.48.39.0982] - G_C
+[dhdComUSB::processData():19.48.39.5986] - G_C
+[dhdComUSB::processData():19.48.40.0990] - G_C
+[dhdComUSB::processData():19.48.40.5990] - G_C
+[dhdComUSB::processData():19.48.41.0998] - G_C
+[dhdComUSB::processData():19.48.41.5982] - G_C
+[dhdComUSB::processData():19.48.42.0997] - G_C
+[dhdComUSB::processData():19.48.42.5989] - G_C
+[dhdComUSB::processData():19.48.43.1003] - G_C
+[dhdComUSB::processData():19.48.43.5996] - G_C
+[dhdComUSB::processData():19.48.44.0999] - G_C
+[dhdComUSB::processData():19.48.44.5993] - G_C
+[dhdComUSB::processData():19.48.45.1006] - G_C
+[dhdComUSB::processData():19.48.45.6010] - G_C
+[dhdComUSB::processData():19.48.46.1004] - G_C
+[dhdComUSB::processData():19.48.46.6007] - G_C
+[dhdComUSB::processData():19.48.47.1001] - G_C
+[dhdComUSB::processData():19.48.47.6014] - G_C
+[dhdComUSB::processData():19.48.48.1007] - G_C
+[dhdComUSB::processData():19.48.48.6021] - G_C
+[dhdComUSB::processData():19.48.49.1005] - G_C
+[dhdComUSB::processData():19.48.49.6018] - G_C
+[dhdComUSB::processData():19.48.50.1012] - G_C
+[dhdComUSB::processData():19.48.50.6026] - G_C
+[dhdComUSB::processData():19.48.51.1020] - G_C
+[dhdComUSB::processData():19.48.51.6022] - G_C
+[dhdComUSB::processData():19.48.52.1016] - G_C
+[dhdComUSB::processData():19.48.52.6033] - G_C
+[dhdComUSB::processData():19.48.53.1023] - G_C
+[dhdComUSB::processData():19.48.53.6037] - G_C
+[dhdComUSB::processData():19.48.54.1030] - G_C
+[dhdComUSB::processData():19.48.54.6024] - G_C
+[dhdComUSB::processData():19.48.55.1037] - G_C
+[dhdComUSB::processData():19.48.55.6031] - G_C
+[dhdComUSB::processData():19.48.56.1045] - G_C
+[dhdComUSB::processData():19.48.56.6030] - G_C
+[dhdComUSB::processData():19.48.57.1045] - G_C
+[dhdComUSB::processData():19.48.57.6037] - G_C
+[dhdComUSB::processData():19.48.58.1051] - G_C
+[dhdComUSB::processData():19.48.58.6034] - G_C
+[dhdComUSB::processData():19.48.59.1056] - G_C
+[dhdComUSB::processData():19.48.59.6191] - G_C
+[dhdComUSB::processData():19.49.00.1059] - G_C
+[dhdComUSB::processData():19.49.00.6047] - G_C
+[dhdComUSB::processData():19.49.01.1051] - G_C
+[dhdComUSB::processData():19.49.01.6055] - G_C
+[dhdComUSB::processData():19.49.02.1048] - G_C
+[dhdComUSB::processData():19.49.02.6062] - G_C
+[dhdComUSB::processData():19.49.03.1055] - G_C
+[dhdComUSB::processData():19.49.03.6066] - G_C
+[dhdComUSB::processData():19.49.04.1062] - G_C
+[dhdComUSB::processData():19.49.04.6074] - G_C
+[dhdComUSB::processData():19.49.05.1057] - G_C
+[dhdComUSB::processData():19.49.05.6071] - G_C
+[dhdComUSB::processData():19.49.06.1064] - G_C
+[dhdComUSB::processData():19.49.06.6078] - G_C
+[dhdComUSB::processData():19.49.07.1062] - G_C
+[dhdComUSB::processData():19.49.07.6075] - G_C
+[dhdComUSB::processData():19.49.08.1069] - G_C
+[dhdComUSB::processData():19.49.08.6084] - G_C
+[dhdComUSB::processData():19.49.09.1077] - G_C
+[dhdComUSB::processData():19.49.09.6081] - G_C
+[dhdComUSB::processData():19.49.10.1095] - G_C
+[dhdComUSB::processData():19.49.10.6078] - G_C
+[dhdComUSB::processData():19.49.11.1100] - G_C
+[dhdComUSB::processData():19.49.11.6084] - G_C
+[dhdComUSB::processData():19.49.12.1091] - G_C
+[dhdComUSB::processData():19.49.12.6082] - G_C
+[dhdComUSB::processData():19.49.13.1095] - G_C
+[dhdComUSB::processData():19.49.13.6090] - G_C
+[dhdComUSB::processData():19.49.14.1103] - G_C
+[dhdComUSB::processData():19.49.14.6086] - G_C
+[dhdComUSB::processData():19.49.15.1100] - G_C
+[dhdComUSB::processData():19.49.15.6104] - G_C
+[dhdComUSB::processData():19.49.16.1107] - G_C
+[dhdComUSB::processData():19.49.16.6100] - G_C
+[dhdComUSB::processData():19.49.17.1105] - G_C
+[dhdComUSB::processData():19.49.17.6108] - G_C
+[dhdComUSB::processData():19.49.18.1112] - G_C
+[dhdComUSB::processData():19.49.18.6116] - G_C
+[dhdComUSB::processData():19.49.19.1099] - G_C
+[dhdComUSB::processData():19.49.19.6112] - G_C
+[dhdComUSB::processData():19.49.20.1106] - G_C
+[dhdComUSB::processData():19.49.20.6119] - G_C
+[dhdComUSB::processData():19.49.21.1115] - G_C
+[dhdComUSB::processData():19.49.21.6117] - G_C
+[dhdComUSB::processData():19.49.22.1110] - G_C
+[dhdComUSB::processData():19.49.22.6124] - G_C
+[dhdComUSB::processData():19.49.23.1117] - G_C
+[dhdComUSB::processData():19.49.23.6132] - G_C
+[dhdComUSB::processData():19.49.24.1130] - G_C
+[dhdComUSB::processData():19.49.24.6134] - G_C
+[dhdComUSB::processData():19.49.25.1136] - G_C
+[dhdComUSB::processData():19.49.25.6133] - G_C
+[dhdComUSB::processData():19.49.26.1130] - G_C
+[dhdComUSB::processData():19.49.26.6137] - G_C
+[dhdComUSB::processData():19.49.27.1130] - G_C
+[dhdComUSB::processData():19.49.27.6143] - G_C
+[dhdComUSB::processData():19.49.28.1129] - G_C
+[dhdComUSB::processData():19.49.28.6142] - G_C
+[dhdComUSB::processData():19.49.29.1147] - G_C
+[dhdComUSB::processData():19.49.29.6131] - G_C
+[dhdComUSB::processData():19.49.30.1146] - G_C
+[dhdComUSB::processData():19.49.30.6139] - G_C
+[dhdComUSB::processData():19.49.31.1136] - G_C
+[dhdComUSB::processData():19.49.31.6150] - G_C
+[dhdComUSB::processData():19.49.32.1149] - G_C
+[dhdComUSB::processData():19.49.32.6142] - G_C
+[dhdComUSB::processData():19.49.33.1148] - G_C
+[dhdComUSB::processData():19.49.33.6152] - G_C
+[dhdComUSB::processData():19.49.34.1147] - G_C
+[dhdComUSB::processData():19.49.34.6144] - G_C
+[dhdComUSB::processData():19.49.35.1157] - G_C
+[dhdComUSB::processData():19.49.35.6151] - G_C
+[dhdComUSB::processData():19.49.36.1165] - G_C
+[dhdComUSB::processData():19.49.36.6158] - G_C
+[dhdComUSB::processData():19.49.37.1165] - G_C
+[dhdComUSB::processData():19.49.37.6158] - G_C
+[dhdComUSB::processData():19.49.38.1170] - G_C
+[dhdComUSB::processData():19.49.38.6165] - G_C
+[dhdComUSB::processData():19.49.39.1175] - G_C
+[dhdComUSB::processData():19.49.39.6169] - G_C
+[dhdComUSB::processData():19.49.40.1164] - G_C
+[dhdComUSB::processData():19.49.40.6167] - G_C
+[dhdComUSB::processData():19.49.41.1164] - G_C
+[dhdComUSB::processData():19.49.41.6177] - G_C
+[dhdComUSB::processData():19.49.42.1185] - G_C
+[dhdComUSB::processData():19.49.42.6167] - G_C
+[dhdComUSB::processData():19.49.43.1180] - G_C
+[dhdComUSB::processData():19.49.43.6174] - G_C
+[dhdComUSB::processData():19.49.44.1172] - G_C
+[dhdComUSB::processData():19.49.44.6173] - G_C
+[dhdComUSB::processData():19.49.45.1176] - G_C
+[dhdComUSB::processData():19.49.45.6192] - G_C
+[dhdComUSB::processData():19.49.46.1181] - G_C
+[dhdComUSB::processData():19.49.46.6183] - G_C
+[dhdComUSB::processData():19.49.47.1198] - G_C
+[dhdComUSB::processData():19.49.47.6193] - G_C
+[dhdComUSB::processData():19.49.48.1196] - G_C
+[dhdComUSB::processData():19.49.48.6200] - G_C
+[dhdComUSB::processData():19.49.49.1193] - G_C
+[dhdComUSB::processData():19.49.49.6205] - G_C
+[dhdComUSB::processData():19.49.50.1189] - G_C
+[dhdComUSB::processData():19.49.50.6208] - G_C
+[dhdComUSB::processData():19.49.51.1210] - G_C
+[dhdComUSB::processData():19.49.51.6213] - G_C
+[dhdComUSB::processData():19.49.52.1206] - G_C
+[dhdComUSB::processData():19.49.52.6200] - G_C
+[dhdComUSB::processData():19.49.53.1215] - G_C
+[dhdComUSB::processData():19.49.53.6209] - G_C
+[dhdComUSB::processData():19.49.54.1214] - G_C
+[dhdComUSB::processData():19.49.54.6207] - G_C
+[dhdComUSB::processData():19.49.55.1214] - G_C
+[dhdComUSB::processData():19.49.55.6209] - G_C
+[dhdComUSB::processData():19.49.56.1225] - G_C
+[dhdComUSB::processData():19.49.56.6219] - G_C
+[dhdComUSB::processData():19.49.57.1221] - G_C
+[dhdComUSB::processData():19.49.57.6215] - G_C
+[dhdComUSB::processData():19.49.58.1221] - G_C
+[dhdComUSB::processData():19.49.58.6226] - G_C
+[dhdComUSB::processData():19.49.59.1219] - G_C
+[dhdComUSB::processData():19.49.59.6232] - G_C
+[dhdComUSB::processData():19.50.00.1227] - G_C
+[dhdComUSB::processData():19.50.00.6241] - G_C
+[dhdComUSB::processData():19.50.01.1236] - G_C
+[dhdComUSB::processData():19.50.01.6235] - G_C
+[dhdComUSB::processData():19.50.02.1237] - G_C
+[dhdComUSB::processData():19.50.02.6242] - G_C
+[dhdComUSB::processData():19.50.03.1236] - G_C
+[dhdComUSB::processData():19.50.03.6239] - G_C
+[dhdComUSB::processData():19.50.04.1244] - G_C
+[dhdComUSB::processData():19.50.04.6237] - G_C
+[dhdComUSB::processData():19.50.05.1251] - G_C
+[dhdComUSB::processData():19.50.05.6245] - G_C
+[dhdComUSB::processData():19.50.06.1248] - G_C
+[dhdComUSB::processData():19.50.06.6242] - G_C
+[dhdComUSB::processData():19.50.07.1256] - G_C
+[dhdComUSB::processData():19.50.07.6252] - G_C
+[dhdComUSB::processData():19.50.08.1256] - G_C
+[dhdComUSB::processData():19.50.08.6260] - G_C
+[dhdComUSB::processData():19.50.09.1253] - G_C
+[dhdComUSB::processData():19.50.09.6267] - G_C
+[dhdComUSB::processData():19.50.10.1252] - G_C
+[dhdComUSB::processData():19.50.10.6268] - G_C
+[dhdComUSB::processData():19.50.11.1271] - G_C
+[dhdComUSB::processData():19.50.11.6265] - G_C
+[dhdComUSB::processData():19.50.12.1267] - G_C
+[dhdComUSB::processData():19.50.12.6263] - G_C
+[dhdComUSB::processData():19.50.13.1276] - G_C
+[dhdComUSB::processData():19.50.13.6270] - G_C
+[dhdComUSB::processData():19.50.14.1274] - G_C
+[dhdComUSB::processData():19.50.14.6278] - G_C
+[dhdComUSB::processData():19.50.15.1274] - G_C
+[dhdComUSB::processData():19.50.15.6279] - G_C
+[dhdComUSB::processData():19.50.16.1271] - G_C
+[dhdComUSB::processData():19.50.16.6275] - G_C
+[dhdComUSB::processData():19.50.17.1289] - G_C
+[dhdComUSB::processData():19.50.17.6274] - G_C
+[dhdComUSB::processData():19.50.18.1291] - G_C
+[dhdComUSB::processData():19.50.18.6282] - G_C
+[dhdComUSB::processData():19.50.19.1287] - G_C
+[dhdComUSB::processData():19.50.19.6291] - G_C
+[dhdComUSB::processData():19.50.20.1285] - G_C
+[dhdComUSB::processData():19.50.20.6292] - G_C
+[dhdComUSB::processData():19.50.21.1298] - G_C
+[dhdComUSB::processData():19.50.21.6293] - G_C
+[dhdComUSB::processData():19.50.22.1303] - G_C
+[dhdComUSB::processData():19.50.22.6288] - G_C
+[dhdComUSB::processData():19.50.23.1293] - G_C
+[dhdComUSB::processData():19.50.23.6310] - G_C
+[dhdComUSB::processData():19.50.24.1306] - G_C
+[dhdComUSB::processData():19.50.24.6298] - G_C
+[dhdComUSB::processData():19.50.25.1304] - G_C
+[dhdComUSB::processData():19.50.25.6299] - G_C
+[dhdComUSB::processData():19.50.26.1311] - G_C
+[dhdComUSB::processData():19.50.26.6305] - G_C
+[dhdComUSB::processData():19.50.27.1317] - G_C
+[dhdComUSB::processData():19.50.27.6312] - G_C
+[dhdComUSB::processData():19.50.28.1304] - G_C
+[dhdComUSB::processData():19.50.28.6323] - G_C
+[dhdComUSB::processData():19.50.29.1319] - G_C
+[dhdComUSB::processData():19.50.29.6314] - G_C
+[dhdComUSB::processData():19.50.30.1310] - G_C
+[dhdComUSB::processData():19.50.30.6325] - G_C
+[dhdComUSB::processData():19.50.31.1323] - G_C
+[dhdComUSB::processData():19.50.31.6328] - G_C
+[dhdComUSB::processData():19.50.32.1322] - G_C
+[dhdComUSB::processData():19.50.32.6333] - G_C
+[dhdComUSB::processData():19.50.33.1317] - G_C
+[dhdComUSB::processData():19.50.33.6331] - G_C
+[dhdComUSB::processData():19.50.34.1326] - G_C
+[dhdComUSB::processData():19.50.34.6339] - G_C
+[dhdComUSB::processData():19.50.35.1322] - G_C
+[dhdComUSB::processData():19.50.35.6336] - G_C
+[dhdComUSB::processData():19.50.36.1329] - G_C
+[dhdComUSB::processData():19.50.36.6343] - G_C
+[dhdComUSB::processData():19.50.37.1337] - G_C
+[dhdComUSB::processData():19.50.37.6332] - G_C
+[dhdComUSB::processData():19.50.38.1350] - G_C
+[dhdComUSB::processData():19.50.38.6352] - G_C
+[dhdComUSB::processData():19.50.39.1336] - G_C
+[dhdComUSB::processData():19.50.39.6353] - G_C
+[dhdComUSB::processData():19.50.40.1349] - G_C
+[dhdComUSB::processData():19.50.40.6341] - G_C
+[dhdComUSB::processData():19.50.41.1353] - G_C
+[dhdComUSB::processData():19.50.41.6347] - G_C
+[dhdComUSB::processData():19.50.42.1365] - G_C
+[dhdComUSB::processData():19.50.42.6346] - G_C
+[dhdComUSB::processData():19.50.43.1361] - G_C
+[dhdComUSB::processData():19.50.43.6367] - G_C
+[dhdComUSB::processData():19.50.44.1350] - G_C
+[dhdComUSB::processData():19.50.44.6362] - G_C
+[dhdComUSB::processData():19.50.45.1357] - G_C
+[dhdComUSB::processData():19.50.45.6371] - G_C
+[dhdComUSB::processData():19.50.46.1367] - G_C
+[dhdComUSB::processData():19.50.46.6363] - G_C
+[dhdComUSB::processData():19.50.47.1376] - G_C
+[dhdComUSB::processData():19.50.47.6374] - G_C
+[dhdComUSB::processData():19.50.48.1370] - G_C
+[dhdComUSB::processData():19.50.48.6379] - G_C
+[dhdComUSB::processData():19.50.49.1373] - G_C
+[dhdComUSB::processData():19.50.49.6375] - G_C
+[dhdComUSB::processData():19.50.50.1368] - G_C
+[dhdComUSB::processData():19.50.50.6377] - G_C
+[dhdComUSB::processData():19.50.51.1380] - G_C
+[dhdComUSB::processData():19.50.51.6373] - G_C
+[dhdComUSB::processData():19.50.52.1387] - G_C
+[dhdComUSB::processData():19.50.52.6385] - G_C
+[dhdComUSB::processData():19.50.53.1377] - G_C
+[dhdComUSB::processData():19.50.53.6390] - G_C
+[dhdComUSB::processData():19.50.54.1384] - G_C
+[dhdComUSB::processData():19.50.54.6397] - G_C
+[dhdComUSB::processData():19.50.55.1381] - G_C
+[dhdComUSB::processData():19.50.55.6396] - G_C
+[dhdComUSB::processData():19.50.56.1389] - G_C
+[dhdComUSB::processData():19.50.56.6402] - G_C
+[dhdComUSB::processData():19.50.57.1401] - G_C
+[dhdComUSB::processData():19.50.57.6396] - G_C
+[dhdComUSB::processData():19.50.58.1399] - G_C
+[dhdComUSB::processData():19.50.58.6391] - G_C
+[dhdComUSB::processData():19.50.59.1395] - G_C
+[dhdComUSB::processData():19.50.59.6408] - G_C
+[dhdComUSB::processData():19.51.00.1401] - G_C
+[dhdComUSB::processData():19.51.00.6416] - G_C
+[dhdComUSB::processData():19.51.01.1399] - G_C
+[dhdComUSB::processData():19.51.01.6413] - G_C
+[dhdComUSB::processData():19.51.02.1406] - G_C
+[dhdComUSB::processData():19.51.02.6421] - G_C
+[dhdComUSB::processData():19.51.03.1416] - G_C
+[dhdComUSB::processData():19.51.03.6411] - G_C
+[dhdComUSB::processData():19.51.04.1425] - G_C
+[dhdComUSB::processData():19.51.04.6422] - G_C
+[dhdComUSB::processData():19.51.05.1415] - G_C
+[dhdComUSB::processData():19.51.05.6413] - G_C
+[dhdComUSB::processData():19.51.06.1426] - G_C
+[dhdComUSB::processData():19.51.06.6422] - G_C
+[dhdComUSB::processData():19.51.07.1433] - G_C
+[dhdComUSB::processData():19.51.07.6431] - G_C
+[dhdComUSB::processData():19.51.08.1434] - G_C
+[dhdComUSB::processData():19.51.08.6438] - G_C
+[dhdComUSB::processData():19.51.09.1419] - G_C
+[dhdComUSB::processData():19.51.09.6433] - G_C
+[dhdComUSB::processData():19.51.10.1428] - G_C
+[dhdComUSB::processData():19.51.10.6441] - G_C
+[dhdComUSB::processData():19.51.11.1427] - G_C
+[dhdComUSB::processData():19.51.11.6440] - G_C
+[dhdComUSB::processData():19.51.12.1432] - G_C
+[dhdComUSB::processData():19.51.12.6445] - G_C
+[dhdComUSB::processData():19.51.13.1442] - G_C
+[dhdComUSB::processData():19.51.13.6445] - G_C
+[dhdComUSB::processData():19.51.14.1449] - G_C
+[dhdComUSB::processData():19.51.14.6441] - G_C
+[dhdComUSB::processData():19.51.15.1456] - G_C
+[dhdComUSB::processData():19.51.15.6438] - G_C
+[dhdComUSB::processData():19.51.16.1453] - G_C
+[dhdComUSB::processData():19.51.16.6446] - G_C
+[dhdComUSB::processData():19.51.17.1450] - G_C
+[dhdComUSB::processData():19.51.17.6462] - G_C
+[dhdComUSB::processData():19.51.18.1456] - G_C
+[dhdComUSB::processData():19.51.18.6448] - G_C
+[dhdComUSB::processData():19.51.19.1446] - G_C
+[dhdComUSB::processData():19.51.19.6454] - G_C
+[dhdComUSB::processData():19.51.20.1458] - G_C
+[dhdComUSB::processData():19.51.20.6452] - G_C
+[dhdComUSB::processData():19.51.21.1467] - G_C
+[dhdComUSB::processData():19.51.21.6462] - G_C
+[dhdComUSB::processData():19.51.22.1463] - G_C
+[dhdComUSB::processData():19.51.22.6468] - G_C
+[dhdComUSB::processData():19.51.23.1461] - G_C
+[dhdComUSB::processData():19.51.23.6474] - G_C
+[dhdComUSB::processData():19.51.24.1457] - G_C
+[dhdComUSB::processData():19.51.24.6471] - G_C
+[dhdComUSB::processData():19.51.25.1465] - G_C
+[dhdComUSB::processData():19.51.25.6480] - G_C
+[dhdComUSB::processData():19.51.26.1463] - G_C
+[dhdComUSB::processData():19.51.26.6477] - G_C
+[dhdComUSB::processData():19.51.27.1480] - G_C
+[dhdComUSB::processData():19.51.27.6474] - G_C
+[dhdComUSB::processData():19.51.28.1479] - G_C
+[dhdComUSB::processData():19.51.28.6473] - G_C
+[dhdComUSB::processData():19.51.29.1486] - G_C
+[dhdComUSB::processData():19.51.29.6479] - G_C
+[dhdComUSB::processData():19.51.30.1483] - G_C
+[dhdComUSB::processData():19.51.30.6476] - G_C
+[dhdComUSB::processData():19.51.31.1490] - G_C
+[dhdComUSB::processData():19.51.31.6484] - G_C
+[dhdComUSB::processData():19.51.32.1488] - G_C
+[dhdComUSB::processData():19.51.32.6506] - G_C
+[dhdComUSB::processData():19.51.33.1485] - G_C
+[dhdComUSB::processData():19.51.33.6500] - G_C
+[dhdComUSB::processData():19.51.34.1484] - G_C
+[dhdComUSB::processData():19.51.34.6491] - G_C
+[dhdComUSB::processData():19.51.35.1504] - G_C
+[dhdComUSB::processData():19.51.35.6488] - G_C
+[dhdComUSB::processData():19.51.36.1505] - G_C
+[dhdComUSB::processData():19.51.36.6508] - G_C
+[dhdComUSB::processData():19.51.37.1492] - G_C
+[dhdComUSB::processData():19.51.37.6508] - G_C
+[dhdComUSB::processData():19.51.38.1501] - G_C
+[dhdComUSB::processData():19.51.38.6514] - G_C
+[dhdComUSB::processData():19.51.39.1512] - G_C
+[dhdComUSB::processData():19.51.39.6508] - G_C
+[dhdComUSB::processData():19.51.40.1502] - G_C
+[dhdComUSB::processData():19.51.40.6510] - G_C
+[dhdComUSB::processData():19.51.41.1506] - G_C
+[dhdComUSB::processData():19.51.41.6520] - G_C
+[dhdComUSB::processData():19.51.42.1513] - G_C
+[dhdComUSB::processData():19.51.42.6516] - G_C
+[dhdComUSB::processData():19.51.43.1513] - G_C
+[dhdComUSB::processData():19.51.43.6511] - G_C
+[dhdComUSB::processData():19.51.44.1522] - G_C
+[dhdComUSB::processData():19.51.44.6517] - G_C
+[dhdComUSB::processData():19.51.45.1530] - G_C
+[dhdComUSB::processData():19.51.45.6525] - G_C
+[dhdComUSB::processData():19.51.46.1521] - G_C
+[dhdComUSB::processData():19.51.46.6520] - G_C
+[dhdComUSB::processData():19.51.47.1534] - G_C
+[dhdComUSB::processData():19.51.47.6520] - G_C
+[dhdComUSB::processData():19.51.48.1542] - G_C
+[dhdComUSB::processData():19.51.48.6534] - G_C
+[dhdComUSB::processData():19.51.49.1530] - G_C
+[dhdComUSB::processData():19.51.49.6536] - G_C
+[dhdComUSB::processData():19.51.50.1539] - G_C
+[dhdComUSB::processData():19.51.50.6533] - G_C
+[dhdComUSB::processData():19.51.51.1540] - G_C
+[dhdComUSB::processData():19.51.51.6545] - G_C
+[dhdComUSB::processData():19.51.52.1539] - G_C
+[dhdComUSB::processData():19.51.52.6544] - G_C
+[dhdComUSB::processData():19.51.53.1537] - G_C
+[dhdComUSB::processData():19.51.53.6551] - G_C
+[dhdComUSB::processData():19.51.54.1548] - G_C
+[dhdComUSB::processData():19.51.54.6542] - G_C
+[dhdComUSB::processData():19.51.55.1555] - G_C
+[dhdComUSB::processData():19.51.55.6560] - G_C
+[dhdComUSB::processData():19.51.56.1547] - G_C
+[dhdComUSB::processData():19.51.56.6555] - G_C
+[dhdComUSB::processData():19.51.57.1560] - G_C
+[dhdComUSB::processData():19.51.57.6564] - G_C
+[dhdComUSB::processData():19.51.58.1561] - G_C
+[dhdComUSB::processData():19.51.58.6557] - G_C
+[dhdComUSB::processData():19.51.59.1564] - G_C
+[dhdComUSB::processData():19.51.59.6566] - G_C
+[dhdComUSB::processData():19.52.00.1564] - G_C
+[dhdComUSB::processData():19.52.00.6567] - G_C
+[dhdComUSB::processData():19.52.01.1572] - G_C
+[dhdComUSB::processData():19.52.01.6565] - G_C
+[dhdComUSB::processData():19.52.02.1578] - G_C
+[dhdComUSB::processData():19.52.02.6571] - G_C
+[dhdComUSB::processData():19.52.03.1575] - G_C
+[dhdComUSB::processData():19.52.03.6569] - G_C
+[dhdComUSB::processData():19.52.04.1582] - G_C
+[dhdComUSB::processData():19.52.04.6578] - G_C
+[dhdComUSB::processData():19.52.05.1590] - G_C
+[dhdComUSB::processData():19.52.05.6573] - G_C
+[dhdComUSB::processData():19.52.06.1579] - G_C
+[dhdComUSB::processData():19.52.06.6586] - G_C
+[dhdComUSB::processData():19.52.07.1579] - G_C
+[dhdComUSB::processData():19.52.07.6594] - G_C
+[dhdComUSB::processData():19.52.08.1596] - G_C
+[dhdComUSB::processData():19.52.08.6583] - G_C
+[dhdComUSB::processData():19.52.09.1591] - G_C
+[dhdComUSB::processData():19.52.09.6603] - G_C
+[dhdComUSB::processData():19.52.10.1585] - G_C
+[dhdComUSB::processData():19.52.10.6595] - G_C
+[dhdComUSB::processData():19.52.11.1594] - G_C
+[dhdComUSB::processData():19.52.11.6604] - G_C
+[dhdComUSB::processData():19.52.12.1598] - G_C
+[dhdComUSB::processData():19.52.12.6601] - G_C
+[dhdComUSB::processData():19.52.13.1596] - G_C
+[dhdComUSB::processData():19.52.13.6619] - G_C
+[dhdComUSB::processData():19.52.14.1602] - G_C
+[dhdComUSB::processData():19.52.14.6606] - G_C
+[dhdComUSB::processData():19.52.15.1599] - G_C
+[dhdComUSB::processData():19.52.15.6612] - G_C
+[dhdComUSB::processData():19.52.16.1619] - G_C
+[dhdComUSB::processData():19.52.16.6603] - G_C
+[dhdComUSB::processData():19.52.17.1616] - G_C
+[dhdComUSB::processData():19.52.17.6609] - G_C
+[dhdComUSB::processData():19.52.18.1633] - G_C
+[dhdComUSB::processData():19.52.18.6608] - G_C
+[dhdComUSB::processData():19.52.19.1623] - G_C
+[dhdComUSB::processData():19.52.19.6627] - G_C
+[dhdComUSB::processData():19.52.20.1614] - G_C
+[dhdComUSB::processData():19.52.20.6624] - G_C
+[dhdComUSB::processData():19.52.21.1618] - G_C
+[dhdComUSB::processData():19.52.21.6631] - G_C
+[dhdComUSB::processData():19.52.22.1636] - G_C
+[dhdComUSB::processData():19.52.22.6629] - G_C
+[dhdComUSB::processData():19.52.23.1622] - G_C
+[dhdComUSB::processData():19.52.23.6636] - G_C
+[dhdComUSB::processData():19.52.24.1640] - G_C
+[dhdComUSB::processData():19.52.24.6646] - G_C
+[dhdComUSB::processData():19.52.25.1647] - G_C
+[dhdComUSB::processData():19.52.25.6630] - G_C
+[dhdComUSB::processData():19.52.26.1644] - G_C
+[dhdComUSB::processData():19.52.26.6627] - G_C
+[dhdComUSB::processData():19.52.27.1650] - G_C
+[dhdComUSB::processData():19.52.27.6644] - G_C
+[dhdComUSB::processData():19.52.28.1648] - G_C
+[dhdComUSB::processData():19.52.28.6643] - G_C
+[dhdComUSB::processData():19.52.29.1641] - G_C
+[dhdComUSB::processData():19.52.29.6655] - G_C
+[dhdComUSB::processData():19.52.30.1648] - G_C
+[dhdComUSB::processData():19.52.30.6643] - G_C
+[dhdComUSB::processData():19.52.31.1656] - G_C
+[dhdComUSB::processData():19.52.31.6653] - G_C
+[dhdComUSB::processData():19.52.32.1650] - G_C
+[dhdComUSB::processData():19.52.32.6665] - G_C
+[dhdComUSB::processData():19.52.33.1647] - G_C
+[dhdComUSB::processData():19.52.33.6660] - G_C
+[dhdComUSB::processData():19.52.34.1653] - G_C
+[dhdComUSB::processData():19.52.34.6668] - G_C
+[dhdComUSB::processData():19.52.35.1661] - G_C
+[dhdComUSB::processData():19.52.35.6656] - G_C
+[dhdComUSB::processData():19.52.36.1670] - G_C
+[dhdComUSB::processData():19.52.36.6665] - G_C
+[dhdComUSB::processData():19.52.37.1660] - G_C
+[dhdComUSB::processData():19.52.37.6678] - G_C
+[dhdComUSB::processData():19.52.38.1673] - G_C
+[dhdComUSB::processData():19.52.38.6667] - G_C
+[dhdComUSB::processData():19.52.39.1680] - G_C
+[dhdComUSB::processData():19.52.39.6664] - G_C
+[dhdComUSB::processData():19.52.40.1679] - G_C
+[dhdComUSB::processData():19.52.40.6671] - G_C
+[dhdComUSB::processData():19.52.41.1685] - G_C
+[dhdComUSB::processData():19.52.41.6680] - G_C
+[dhdComUSB::processData():19.52.42.1674] - G_C
+[dhdComUSB::processData():19.52.42.6692] - G_C
+[dhdComUSB::processData():19.52.43.1672] - G_C
+[dhdComUSB::processData():19.52.43.6686] - G_C
+[dhdComUSB::processData():19.52.44.1682] - G_C
+[dhdComUSB::processData():19.52.44.6693] - G_C
+[dhdComUSB::processData():19.52.45.1698] - G_C
+[dhdComUSB::processData():19.52.45.6690] - G_C
+[dhdComUSB::processData():19.52.46.1694] - G_C
+[dhdComUSB::processData():19.52.46.6690] - G_C
+[dhdComUSB::processData():19.52.47.1704] - G_C
+[dhdComUSB::processData():19.52.47.6698] - G_C
+[dhdComUSB::processData():19.52.48.1695] - G_C
+[dhdComUSB::processData():19.52.48.6708] - G_C
+[dhdComUSB::processData():19.52.49.1704] - G_C
+[dhdComUSB::processData():19.52.49.6699] - G_C
+[dhdComUSB::processData():19.52.50.1712] - G_C
+[dhdComUSB::processData():19.52.50.6709] - G_C
+[dhdComUSB::processData():19.52.51.1701] - G_C
+[dhdComUSB::processData():19.52.51.6715] - G_C
+[dhdComUSB::processData():19.52.52.1709] - G_C
+[dhdComUSB::processData():19.52.52.6712] - G_C
+[dhdComUSB::processData():19.52.53.1707] - G_C
+[dhdComUSB::processData():19.52.53.6714] - G_C
+[dhdComUSB::processData():19.52.54.1717] - G_C
+[dhdComUSB::processData():19.52.54.6709] - G_C
+[dhdComUSB::processData():19.52.55.1723] - G_C
+[dhdComUSB::processData():19.52.55.6736] - G_C
+[dhdComUSB::processData():19.52.56.1730] - G_C
+[dhdComUSB::processData():19.52.56.6713] - G_C
+[dhdComUSB::processData():19.52.57.1721] - G_C
+[dhdComUSB::processData():19.52.57.6726] - G_C
+[dhdComUSB::processData():19.52.58.1720] - G_C
+[dhdComUSB::processData():19.52.58.6733] - G_C
+[dhdComUSB::processData():19.52.59.1727] - G_C
+[dhdComUSB::processData():19.52.59.6721] - G_C
+[dhdComUSB::processData():19.53.00.1735] - G_C
+[dhdComUSB::processData():19.53.00.6731] - G_C
+[dhdComUSB::processData():19.53.01.1727] - G_C
+[dhdComUSB::processData():19.53.01.6735] - G_C
+[dhdComUSB::processData():19.53.02.1739] - G_C
+[dhdComUSB::processData():19.53.02.6733] - G_C
+[dhdComUSB::processData():19.53.03.1739] - G_C
+[dhdComUSB::processData():19.53.03.6745] - G_C
+[dhdComUSB::processData():19.53.04.1750] - G_C
+[dhdComUSB::processData():19.53.04.6743] - G_C
+[dhdComUSB::processData():19.53.05.1756] - G_C
+[dhdComUSB::processData():19.53.05.6740] - G_C
+[dhdComUSB::processData():19.53.06.1754] - G_C
+[dhdComUSB::processData():19.53.06.6748] - G_C
+[dhdComUSB::processData():19.53.07.1762] - G_C
+[dhdComUSB::processData():19.53.07.6756] - G_C
+[dhdComUSB::processData():19.53.08.1758] - G_C
+[dhdComUSB::processData():19.53.08.6752] - G_C
+[dhdComUSB::processData():19.53.09.1765] - G_C
+[dhdComUSB::processData():19.53.09.6760] - G_C
+[dhdComUSB::processData():19.53.10.1763] - G_C
+[dhdComUSB::processData():19.53.10.6767] - G_C
+[dhdComUSB::processData():19.53.11.1761] - G_C
+[dhdComUSB::processData():19.53.11.6805] - G_C
+[dhdComUSB::processData():19.53.12.1768] - G_C
+[dhdComUSB::processData():19.53.12.6776] - G_C
+[dhdComUSB::processData():19.53.13.1766] - G_C
+[dhdComUSB::processData():19.53.13.6780] - G_C
+[dhdComUSB::processData():19.53.14.1775] - G_C
+[dhdComUSB::processData():19.53.14.6778] - G_C
+[dhdComUSB::processData():19.53.15.1772] - G_C
+[dhdComUSB::processData():19.53.15.6785] - G_C
+[dhdComUSB::processData():19.53.16.1780] - G_C
+[dhdComUSB::processData():19.53.16.6792] - G_C
+[dhdComUSB::processData():19.53.17.1795] - G_C
+[dhdComUSB::processData():19.53.17.6779] - G_C
+[dhdComUSB::processData():19.53.18.1794] - G_C
+[dhdComUSB::processData():19.53.18.6789] - G_C
+[dhdComUSB::processData():19.53.19.1802] - G_C
+[dhdComUSB::processData():19.53.19.6795] - G_C
+[dhdComUSB::processData():19.53.20.1798] - G_C
+[dhdComUSB::processData():19.53.20.6792] - G_C
+[dhdComUSB::processData():19.53.21.1786] - G_C
+[dhdComUSB::processData():19.53.21.6801] - G_C
+[dhdComUSB::processData():19.53.22.1795] - G_C
+[dhdComUSB::processData():19.53.22.6792] - G_C
+[dhdComUSB::processData():19.53.23.1809] - G_C
+[dhdComUSB::processData():19.53.23.6801] - G_C
+[dhdComUSB::processData():19.53.24.1805] - G_C
+[dhdComUSB::processData():19.53.24.6809] - G_C
+[dhdComUSB::processData():19.53.25.1805] - G_C
+[dhdComUSB::processData():19.53.25.6802] - G_C
+[dhdComUSB::processData():19.53.26.1816] - G_C
+[dhdComUSB::processData():19.53.26.6808] - G_C
+[dhdComUSB::processData():19.53.27.1807] - G_C
+[dhdComUSB::processData():19.53.27.6822] - G_C
+[dhdComUSB::processData():19.53.28.1816] - G_C
+[dhdComUSB::processData():19.53.28.6828] - G_C
+[dhdComUSB::processData():19.53.29.1812] - G_C
+[dhdComUSB::processData():19.53.29.6816] - G_C
+[dhdComUSB::processData():19.53.30.1830] - G_C
+[dhdComUSB::processData():19.53.30.6829] - G_C
+[dhdComUSB::processData():19.53.31.1823] - G_C
+[dhdComUSB::processData():19.53.31.6820] - G_C
+[dhdComUSB::processData():19.53.32.1835] - G_C
+[dhdComUSB::processData():19.53.32.6827] - G_C
+[dhdComUSB::processData():19.53.33.1839] - G_C
+[dhdComUSB::processData():19.53.33.6832] - G_C
+[dhdComUSB::processData():19.53.34.1837] - G_C
+[dhdComUSB::processData():19.53.34.6832] - G_C
+[dhdComUSB::processData():19.53.35.1845] - G_C
+[dhdComUSB::processData():19.53.35.6838] - G_C
+[dhdComUSB::processData():19.53.36.1842] - G_C
+[dhdComUSB::processData():19.53.36.6845] - G_C
+[dhdComUSB::processData():19.53.37.1839] - G_C
+[dhdComUSB::processData():19.53.37.6854] - G_C
+[dhdComUSB::processData():19.53.38.1837] - G_C
+[dhdComUSB::processData():19.53.38.6851] - G_C
+[dhdComUSB::processData():19.53.39.1844] - G_C
+[dhdComUSB::processData():19.53.39.6857] - G_C
+[dhdComUSB::processData():19.53.40.1851] - G_C
+[dhdComUSB::processData():19.53.40.6855] - G_C
+[dhdComUSB::processData():19.53.41.1848] - G_C
+[dhdComUSB::processData():19.53.41.6863] - G_C
+[dhdComUSB::processData():19.53.42.1856] - G_C
+[dhdComUSB::processData():19.53.42.6863] - G_C
+[dhdComUSB::processData():19.53.43.1866] - G_C
+[dhdComUSB::processData():19.53.43.6858] - G_C
+[dhdComUSB::processData():19.53.44.1866] - G_C
+[dhdComUSB::processData():19.53.44.6864] - G_C
+[dhdComUSB::processData():19.53.45.1867] - G_C
+[dhdComUSB::processData():19.53.45.6863] - G_C
+[dhdComUSB::processData():19.53.46.1878] - G_C
+[dhdComUSB::processData():19.53.46.6871] - G_C
+[dhdComUSB::processData():19.53.47.1874] - G_C
+[dhdComUSB::processData():19.53.47.6877] - G_C
+[dhdComUSB::processData():19.53.48.1873] - G_C
+[dhdComUSB::processData():19.53.48.6885] - G_C
+[dhdComUSB::processData():19.53.49.1878] - G_C
+[dhdComUSB::processData():19.53.49.6883] - G_C
+[dhdComUSB::processData():19.53.50.1877] - G_C
+[dhdComUSB::processData():19.53.50.6892] - G_C
+[dhdComUSB::processData():19.53.51.1896] - G_C
+[dhdComUSB::processData():19.53.51.6879] - G_C
+[dhdComUSB::processData():19.53.52.1895] - G_C
+[dhdComUSB::processData():19.53.52.6889] - G_C
+[dhdComUSB::processData():19.53.53.1883] - G_C
+[dhdComUSB::processData():19.53.53.6898] - G_C
+[dhdComUSB::processData():19.53.54.1905] - G_C
+[dhdComUSB::processData():19.53.54.6894] - G_C
+[dhdComUSB::processData():19.53.55.1902] - G_C
+[dhdComUSB::processData():19.53.55.6896] - G_C
+[dhdComUSB::processData():19.53.56.1910] - G_C
+[dhdComUSB::processData():19.53.56.6894] - G_C
+[dhdComUSB::processData():19.53.57.1899] - G_C
+[dhdComUSB::processData():19.53.57.6914] - G_C
+[dhdComUSB::processData():19.53.58.1907] - G_C
+[dhdComUSB::processData():19.53.58.6910] - G_C
+[dhdComUSB::processData():19.53.59.1906] - G_C
+[dhdComUSB::processData():19.53.59.6911] - G_C
+[dhdComUSB::processData():19.54.00.1909] - G_C
+[dhdComUSB::processData():19.54.00.6922] - G_C
+[dhdComUSB::processData():19.54.01.1917] - G_C
+[dhdComUSB::processData():19.54.01.6922] - G_C
+[dhdComUSB::processData():19.54.02.1914] - G_C
+[dhdComUSB::processData():19.54.02.6927] - G_C
+[dhdComUSB::processData():19.54.03.1924] - G_C
+[dhdComUSB::processData():19.54.03.6916] - G_C
+[dhdComUSB::processData():19.54.04.1933] - G_C
+[dhdComUSB::processData():19.54.04.6929] - G_C
+[dhdComUSB::processData():19.54.05.1924] - G_C
+[dhdComUSB::processData():19.54.05.6936] - G_C
+[dhdComUSB::processData():19.54.06.1934] - G_C
+[dhdComUSB::processData():19.54.06.6926] - G_C
+[dhdComUSB::processData():19.54.07.1941] - G_C
+[dhdComUSB::processData():19.54.07.6934] - G_C
+[dhdComUSB::processData():19.54.08.1938] - G_C
+[dhdComUSB::processData():19.54.08.6944] - G_C
+[dhdComUSB::processData():19.54.09.1931] - G_C
+[dhdComUSB::processData():19.54.09.6935] - G_C
+[dhdComUSB::processData():19.54.10.1951] - G_C
+[dhdComUSB::processData():19.54.10.6947] - G_C
+[dhdComUSB::processData():19.54.11.1940] - G_C
+[dhdComUSB::processData():19.54.11.6937] - G_C
+[dhdComUSB::processData():19.54.12.1953] - G_C
+[dhdComUSB::processData():19.54.12.6947] - G_C
+[dhdComUSB::processData():19.54.13.1950] - G_C
+[dhdComUSB::processData():19.54.13.6956] - G_C
+[dhdComUSB::processData():19.54.14.1949] - G_C
+[dhdComUSB::processData():19.54.14.6962] - G_C
+[dhdComUSB::processData():19.54.15.1960] - G_C
+[dhdComUSB::processData():19.54.15.6955] - G_C
+[dhdComUSB::processData():19.54.16.1959] - G_C
+[dhdComUSB::processData():19.54.16.6951] - G_C
+[dhdComUSB::processData():19.54.17.1965] - G_C
+[dhdComUSB::processData():19.54.17.6958] - G_C
+[dhdComUSB::processData():19.54.18.1970] - G_C
+[dhdComUSB::processData():19.54.18.6966] - G_C
+[dhdComUSB::processData():19.54.19.1960] - G_C
+[dhdComUSB::processData():19.54.19.6974] - G_C
+[dhdComUSB::processData():19.54.20.1957] - G_C
+[dhdComUSB::processData():19.54.20.6973] - G_C
+[dhdComUSB::processData():19.54.21.1965] - G_C
+[dhdComUSB::processData():19.54.21.6979] - G_C
+[dhdComUSB::processData():19.54.22.1961] - G_C
+[dhdComUSB::processData():19.54.22.6972] - G_C
+[dhdComUSB::processData():19.54.23.1978] - G_C
+[dhdComUSB::processData():19.54.23.6983] - G_C
+[dhdComUSB::processData():19.54.24.1985] - G_C
+[dhdComUSB::processData():19.54.24.6981] - G_C
+[dhdComUSB::processData():19.54.25.1983] - G_C
+[dhdComUSB::processData():19.54.25.6977] - G_C
+[dhdComUSB::processData():19.54.26.1990] - G_C
+[dhdComUSB::processData():19.54.26.6984] - G_C
+[dhdComUSB::processData():19.54.27.1988] - G_C
+[dhdComUSB::processData():19.54.27.6980] - G_C
+[dhdComUSB::processData():19.54.28.1994] - G_C
+[dhdComUSB::processData():19.54.28.6988] - G_C
+[dhdComUSB::processData():19.54.29.1993] - G_C
+[dhdComUSB::processData():19.54.29.6997] - G_C
+[dhdComUSB::processData():19.54.30.1990] - G_C
+[dhdComUSB::processData():19.54.30.7003] - G_C
+[dhdComUSB::processData():19.54.31.1986] - G_C
+[dhdComUSB::processData():19.54.31.7000] - G_C
+[dhdComUSB::processData():19.54.32.1993] - G_C
+[dhdComUSB::processData():19.54.32.7007] - G_C
+[dhdComUSB::processData():19.54.33.2000] - G_C
+[dhdComUSB::processData():19.54.33.7004] - G_C
+[dhdComUSB::processData():19.54.34.1999] - G_C
+[dhdComUSB::processData():19.54.34.6997] - G_C
+[dhdComUSB::processData():19.54.35.2010] - G_C
+[dhdComUSB::processData():19.54.35.7003] - G_C
+[dhdComUSB::processData():19.54.36.2017] - G_C
+[dhdComUSB::processData():19.54.36.7000] - G_C
+[dhdComUSB::processData():19.54.37.2005] - G_C
+[dhdComUSB::processData():19.54.37.7019] - G_C
+[dhdComUSB::processData():19.54.38.2012] - G_C
+[dhdComUSB::processData():19.54.38.7018] - G_C
+[dhdComUSB::processData():19.54.39.2023] - G_C
+[dhdComUSB::processData():19.54.39.7024] - G_C
+[dhdComUSB::processData():19.54.40.2019] - G_C
+[dhdComUSB::processData():19.54.40.7012] - G_C
+[dhdComUSB::processData():19.54.41.2026] - G_C
+[dhdComUSB::processData():19.54.41.7019] - G_C
+[dhdComUSB::processData():19.54.42.2035] - G_C
+[dhdComUSB::processData():19.54.42.7018] - G_C
+[dhdComUSB::processData():19.54.43.2030] - G_C
+[dhdComUSB::processData():19.54.43.7023] - G_C
+[dhdComUSB::processData():19.54.44.2039] - G_C
+[dhdComUSB::processData():19.54.44.7020] - G_C
+[dhdComUSB::processData():19.54.45.2034] - G_C
+[dhdComUSB::processData():19.54.45.7029] - G_C
+[dhdComUSB::processData():19.54.46.2038] - G_C
+[dhdComUSB::processData():19.54.46.7038] - G_C
+[dhdComUSB::processData():19.54.47.2031] - G_C
+[dhdComUSB::processData():19.54.47.7044] - G_C
+[dhdComUSB::processData():19.54.48.2037] - G_C
+[dhdComUSB::processData():19.54.48.7035] - G_C
+[dhdComUSB::processData():19.54.49.2047] - G_C
+[dhdComUSB::processData():19.54.49.7033] - G_C
+[dhdComUSB::processData():19.54.50.2047] - G_C
+[dhdComUSB::processData():19.54.50.7040] - G_C
+[dhdComUSB::processData():19.54.51.2054] - G_C
+[dhdComUSB::dhdComUSB():19.54.51.6676] - Constructor
+[dhdComUSB::close():19.54.51.6690] - Closed
+[dhdOpenWithReset():19.54.51.6923] - currentDevice = 0, l_serNum = 16000329, is NOT smart
+[dhdOpenWithReset():19.54.51.7009] - l_serNum after getFileName = 16000329
+[dhdOpenWithReset():19.54.51.7013] - Found falcon_12_0101.bin at C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin
+[dhdOpenWithReset():19.54.51.7013] - comUSB[0]open(16000329, C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, False)
+[dhdComUSB::open():19.54.51.7013] - Open(C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, false)
+[dhdComUSB::open():19.54.51.7034] - OpenUSBPort succeeded after 1 tries
+[dhdComUSB::open():19.54.51.7034] - deviceType = 0
+[dhdComUSB::open():19.54.51.7034] - deviceID   = 67357512d
+[dhdComUSB::open():19.54.51.7034] - deviceSN   = 16000329
+[dhdComUSB::open():19.54.51.7034] - deviceDesc = FALCON HAPTIC
+[dhdComUSB::OpenDeviceCommunications():19.54.51.7035] - Set Baud Rate Status: 0
+[dhdComUSB::OpenDeviceCommunications():19.54.51.7339] - update() failed
+[dhdComUSB::OpenDeviceCommunications():19.54.51.7648] - update() okay after 2 updates
+[dhdComUSB::OpenDeviceCommunications():19.54.51.7649] - Returning 0
+[dhdComUSB::changeGrip():19.54.51.9649] - New Grip: G_A
+[dhdComUSB::changeGrip():19.54.51.9651] - Started grip change
+[changeGripThreadFunc::19.54.51.9653] - deleting old grip object
+[changeGripThreadFunc::19.54.51.9653] - Loading grip type G_A
+[changeGripThreadFunc::19.54.51.9687] - Loading delta
+[dhdDelta():19.54.51.9691] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.54.51.9692] - Done loading new grip
+[dhdComUSB::processData():19.54.52.0030] - G_C
+[dhdComUSB::changeGrip():19.54.52.0030] - New Grip: G_C
+[dhdComUSB::changeGrip():19.54.52.0031] - Started grip change
+[changeGripThreadFunc::19.54.52.0033] - deleting old grip object
+[changeGripThreadFunc::19.54.52.0035] - Loading grip type G_C
+[changeGripThreadFunc::19.54.52.0061] - Loading delta
+[dhdDelta():19.54.52.0063] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.54.52.0063] - Done loading new grip
+[dhdComUSB::tryCalibration():19.54.52.1234] - HomeDisabled, LED Blue
+[dhdComUSB::processData():19.54.52.4037] - G_C
+[dhdComUSB::processData():19.54.52.7041] - G_C
+[dhdComUSB::processData():19.54.53.2047] - G_C
+[dhdComUSB::processData():19.54.53.7050] - G_C
+[dhdComUSB::processData():19.54.54.2054] - G_C
+[dhdComUSB::processData():19.54.54.7058] - G_C
+[dhdComUSB::processData():19.54.55.2052] - G_C
+[dhdComUSB::processData():19.54.55.7057] - G_C
+[dhdComUSB::processData():19.54.56.2063] - G_C
+[dhdComUSB::processData():19.54.56.7057] - G_C
+[dhdComUSB::processData():19.54.57.2054] - G_C
+[dhdComUSB::processData():19.54.57.7070] - G_C
+[dhdComUSB::processData():19.54.58.2063] - G_C
+[dhdComUSB::processData():19.54.58.7067] - G_C
+[dhdComUSB::processData():19.54.59.2061] - G_C
+[dhdComUSB::processData():19.54.59.7074] - G_C
+[dhdComUSB::processData():19.55.00.2069] - G_C
+[dhdComUSB::processData():19.55.00.7072] - G_C
+[dhdComUSB::processData():19.55.01.2076] - G_C
+[dhdComUSB::processData():19.55.01.7069] - G_C
+[dhdComUSB::processData():19.55.02.2077] - G_C
+[dhdComUSB::processData():19.55.02.7084] - G_C
+[dhdComUSB::processData():19.55.03.2077] - G_C
+[dhdComUSB::processData():19.55.03.7073] - G_C
+[dhdComUSB::processData():19.55.04.2090] - G_C
+[dhdComUSB::processData():19.55.04.7083] - G_C
+[dhdComUSB::processData():19.55.05.2078] - G_C
+[dhdComUSB::processData():19.55.05.7075] - G_C
+[dhdComUSB::processData():19.55.06.2090] - G_C
+[dhdComUSB::processData():19.55.06.7085] - G_C
+[dhdComUSB::processData():19.55.07.2080] - G_C
+[dhdComUSB::processData():19.55.07.7096] - G_C
+[dhdComUSB::processData():19.55.08.2091] - G_C
+[dhdComUSB::processData():19.55.08.7097] - G_C
+[dhdComUSB::processData():19.55.09.2102] - G_C
+[dhdComUSB::processData():19.55.09.7099] - G_C
+[dhdComUSB::processData():19.55.10.2104] - G_C
+[dhdComUSB::processData():19.55.10.7087] - G_C
+[dhdComUSB::processData():19.55.11.2103] - G_C
+[dhdComUSB::processData():19.55.11.7108] - G_C
+[dhdComUSB::dhdComUSB():19.55.12.1839] - Constructor
+[dhdComUSB::close():19.55.12.1840] - Closed
+[dhdOpenWithReset():19.55.12.2253] - currentDevice = 0, l_serNum = 16000329, is NOT smart
+[dhdOpenWithReset():19.55.12.2385] - l_serNum after getFileName = 16000329
+[dhdOpenWithReset():19.55.12.2389] - Found falcon_12_0101.bin at C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin
+[dhdOpenWithReset():19.55.12.2389] - comUSB[0]open(16000329, C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, False)
+[dhdComUSB::open():19.55.12.2389] - Open(C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, false)
+[dhdComUSB::open():19.55.12.2403] - OpenUSBPort succeeded after 1 tries
+[dhdComUSB::open():19.55.12.2404] - deviceType = 0
+[dhdComUSB::open():19.55.12.2404] - deviceID   = 67357512d
+[dhdComUSB::open():19.55.12.2405] - deviceSN   = 16000329
+[dhdComUSB::open():19.55.12.2405] - deviceDesc = FALCON HAPTIC
+[dhdComUSB::OpenDeviceCommunications():19.55.12.2406] - Set Baud Rate Status: 0
+[dhdComUSB::OpenDeviceCommunications():19.55.12.2715] - update() failed
+[dhdComUSB::OpenDeviceCommunications():19.55.12.3027] - update() okay after 2 updates
+[dhdComUSB::OpenDeviceCommunications():19.55.12.3028] - Returning 0
+[dhdComUSB::changeGrip():19.55.12.5028] - New Grip: G_A
+[dhdComUSB::changeGrip():19.55.12.5030] - Started grip change
+[changeGripThreadFunc::19.55.12.5031] - deleting old grip object
+[changeGripThreadFunc::19.55.12.5031] - Loading grip type G_A
+[changeGripThreadFunc::19.55.12.5058] - Loading delta
+[dhdDelta():19.55.12.5059] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.55.12.5059] - Done loading new grip
+[dhdComUSB::processData():19.55.12.5397] - G_C
+[dhdComUSB::changeGrip():19.55.12.5397] - New Grip: G_C
+[dhdComUSB::changeGrip():19.55.12.5398] - Started grip change
+[changeGripThreadFunc::19.55.12.5401] - deleting old grip object
+[changeGripThreadFunc::19.55.12.5403] - Loading grip type G_C
+[changeGripThreadFunc::19.55.12.5428] - Loading delta
+[dhdDelta():19.55.12.5430] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.55.12.5430] - Done loading new grip
+[dhdComUSB::tryCalibration():19.55.12.6609] - HomeDisabled, LED Blue
+[dhdComUSB::processData():19.55.12.9213] - G_C
+[dhdComUSB::processData():19.55.13.2105] - G_C
+[dhdComUSB::processData():19.55.13.7103] - G_C
+[dhdComUSB::processData():19.55.14.2115] - G_C
+[dhdComUSB::processData():19.55.14.7108] - G_C
+[dhdComUSB::processData():19.55.15.2111] - G_C
+[dhdComUSB::processData():19.55.15.7115] - G_C
+[dhdComUSB::processData():19.55.16.2110] - G_C
+[dhdComUSB::processData():19.55.16.7114] - G_C
+[dhdComUSB::processData():19.55.17.2120] - G_C
+[dhdComUSB::processData():19.55.17.7122] - G_C
+[dhdComUSB::processData():19.55.18.2117] - G_C
+[dhdComUSB::processData():19.55.18.7118] - G_C
+[dhdComUSB::processData():19.55.19.2123] - G_C
+[dhdComUSB::processData():19.55.19.7116] - G_C
+[dhdComUSB::processData():19.55.20.2130] - G_C
+[dhdComUSB::processData():19.55.20.7113] - G_C
+[dhdComUSB::processData():19.55.21.2128] - G_C
+[dhdComUSB::processData():19.55.21.7122] - G_C
+[dhdComUSB::processData():19.55.22.2134] - G_C
+[dhdComUSB::processData():19.55.22.7127] - G_C
+[dhdComUSB::processData():19.55.23.2133] - G_C
+[dhdComUSB::processData():19.55.23.7127] - G_C
+[dhdComUSB::processData():19.55.24.2132] - G_C
+[dhdComUSB::processData():19.55.24.7133] - G_C
+[dhdComUSB::processData():19.55.25.2126] - G_C
+[dhdComUSB::processData():19.55.25.7139] - G_C
+[dhdComUSB::processData():19.55.26.2135] - G_C
+[dhdComUSB::processData():19.55.26.7147] - G_C
+[dhdComUSB::processData():19.55.27.2130] - G_C
+[dhdComUSB::processData():19.55.27.7144] - G_C
+[dhdComUSB::processData():19.55.28.2140] - G_C
+[dhdComUSB::processData():19.55.28.7143] - G_C
+[dhdComUSB::processData():19.55.29.2147] - G_C
+[dhdComUSB::processData():19.55.29.7141] - G_C
+[dhdComUSB::processData():19.55.30.2141] - G_C
+[dhdComUSB::processData():19.55.30.7153] - G_C
+[dhdComUSB::processData():19.55.31.2146] - G_C
+[dhdComUSB::processData():19.55.31.7159] - G_C
+[dhdComUSB::processData():19.55.32.2143] - G_C
+[dhdComUSB::processData():19.55.32.7156] - G_C
+[dhdComUSB::processData():19.55.33.2150] - G_C
+[dhdComUSB::processData():19.55.33.7163] - G_C
+[dhdComUSB::processData():19.55.34.2147] - G_C
+[dhdComUSB::processData():19.55.34.7161] - G_C
+[dhdComUSB::processData():19.55.35.2165] - G_C
+[dhdComUSB::processData():19.55.35.7168] - G_C
+[dhdComUSB::processData():19.55.36.2162] - G_C
+[dhdComUSB::processData():19.55.36.7165] - G_C
+[dhdComUSB::processData():19.55.37.2171] - G_C
+[dhdComUSB::processData():19.55.37.7166] - G_C
+[dhdComUSB::processData():19.55.38.2178] - G_C
+[dhdComUSB::processData():19.55.38.7164] - G_C
+[dhdComUSB::processData():19.55.39.2176] - G_C
+[dhdComUSB::processData():19.55.39.7180] - G_C
+[dhdComUSB::processData():19.55.40.2166] - G_C
+[dhdComUSB::processData():19.55.40.7178] - G_C
+[dhdComUSB::processData():19.55.41.2170] - G_C
+[dhdComUSB::processData():19.55.41.7184] - G_C
+[dhdComUSB::processData():19.55.42.2168] - G_C
+[dhdComUSB::processData():19.55.42.7182] - G_C
+[dhdComUSB::processData():19.55.43.2176] - G_C
+[dhdComUSB::processData():19.55.43.7189] - G_C
+[dhdComUSB::processData():19.55.44.2172] - G_C
+[dhdComUSB::processData():19.55.44.7186] - G_C
+[dhdComUSB::processData():19.55.45.2179] - G_C
+[dhdComUSB::processData():19.55.45.7193] - G_C
+[dhdComUSB::processData():19.55.46.2197] - G_C
+[dhdComUSB::processData():19.55.46.7181] - G_C
+[dhdComUSB::processData():19.55.47.2194] - G_C
+[dhdComUSB::processData():19.55.47.7188] - G_C
+[dhdComUSB::processData():19.55.48.2194] - G_C
+[dhdComUSB::processData():19.55.48.7186] - G_C
+[dhdComUSB::processData():19.55.49.2201] - G_C
+[dhdComUSB::processData():19.55.49.7194] - G_C
+[dhdComUSB::processData():19.55.50.2197] - G_C
+[dhdComUSB::processData():19.55.50.7202] - G_C
+[dhdComUSB::processData():19.55.51.2196] - G_C
+[dhdComUSB::processData():19.55.51.7211] - G_C
+[dhdComUSB::processData():19.55.52.2207] - G_C
+[dhdComUSB::processData():19.55.52.7200] - G_C
+[dhdComUSB::processData():19.55.53.2206] - G_C
+[dhdComUSB::processData():19.55.53.7215] - G_C
+[dhdComUSB::processData():19.55.54.2209] - G_C
+[dhdComUSB::processData():19.55.54.7215] - G_C
+[dhdComUSB::processData():19.55.55.2234] - G_C
+[dhdComUSB::processData():19.55.55.7214] - G_C
+[dhdComUSB::processData():19.55.56.2210] - G_C
+[dhdComUSB::processData():19.55.56.7216] - G_C
+[dhdComUSB::processData():19.55.57.2220] - G_C
+[dhdComUSB::processData():19.55.57.7214] - G_C
+[dhdComUSB::processData():19.55.58.2219] - G_C
+[dhdComUSB::processData():19.55.58.7224] - G_C
+[dhdComUSB::processData():19.55.59.2221] - G_C
+[dhdComUSB::processData():19.55.59.7215] - G_C
+[dhdComUSB::processData():19.56.00.2229] - G_C
+[dhdComUSB::processData():19.56.00.7222] - G_C
+[dhdComUSB::processData():19.56.01.2227] - G_C
+[dhdComUSB::processData():19.56.01.7221] - G_C
+[dhdComUSB::processData():19.56.02.2233] - G_C
+[dhdComUSB::processData():19.56.02.7230] - G_C
+[dhdComUSB::processData():19.56.03.2233] - G_C
+[dhdComUSB::processData():19.56.03.7235] - G_C
+[dhdComUSB::processData():19.56.04.2230] - G_C
+[dhdComUSB::processData():19.56.04.7245] - G_C
+[dhdComUSB::processData():19.56.05.2228] - G_C
+[dhdComUSB::processData():19.56.05.7252] - G_C
+[dhdComUSB::processData():19.56.06.2235] - G_C
+[dhdComUSB::processData():19.56.06.7249] - G_C
+[dhdComUSB::processData():19.56.07.2232] - G_C
+[dhdComUSB::processData():19.56.07.7245] - G_C
+[dhdComUSB::processData():19.56.08.2250] - G_C
+[dhdComUSB::processData():19.56.08.7236] - G_C
+[dhdComUSB::processData():19.56.09.2249] - G_C
+[dhdComUSB::processData():19.56.09.7241] - G_C
+[dhdComUSB::processData():19.56.10.2255] - G_C
+[dhdComUSB::processData():19.56.10.7250] - G_C
+[dhdComUSB::processData():19.56.11.2245] - G_C
+[dhdComUSB::processData():19.56.11.7260] - G_C
+[dhdComUSB::processData():19.56.12.2244] - G_C
+[dhdComUSB::processData():19.56.12.7256] - G_C
+[dhdComUSB::processData():19.56.13.2251] - G_C
+[dhdComUSB::processData():19.56.13.7266] - G_C
+[dhdComUSB::processData():19.56.14.2260] - G_C
+[dhdComUSB::processData():19.56.14.7254] - G_C
+[dhdComUSB::processData():19.56.15.2269] - G_C
+[dhdComUSB::processData():19.56.15.7264] - G_C
+[dhdComUSB::processData():19.56.16.2258] - G_C
+[dhdComUSB::processData():19.56.16.7273] - G_C
+[dhdComUSB::processData():19.56.17.2257] - G_C
+[dhdComUSB::processData():19.56.17.7271] - G_C
+[dhdComUSB::processData():19.56.18.2274] - G_C
+[dhdComUSB::dhdComUSB():19.56.18.5790] - Constructor
+[dhdComUSB::close():19.56.18.5791] - Closed
+[dhdOpenWithReset():19.56.18.6007] - currentDevice = 0, l_serNum = 16000329, is NOT smart
+[dhdOpenWithReset():19.56.18.6091] - l_serNum after getFileName = 16000329
+[dhdOpenWithReset():19.56.18.6092] - Found falcon_12_0101.bin at C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin
+[dhdOpenWithReset():19.56.18.6092] - comUSB[0]open(16000329, C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, False)
+[dhdComUSB::open():19.56.18.6092] - Open(C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, false)
+[dhdComUSB::open():19.56.18.6098] - OpenUSBPort succeeded after 1 tries
+[dhdComUSB::open():19.56.18.6099] - deviceType = 0
+[dhdComUSB::open():19.56.18.6099] - deviceID   = 67357512d
+[dhdComUSB::open():19.56.18.6099] - deviceSN   = 16000329
+[dhdComUSB::open():19.56.18.6099] - deviceDesc = FALCON HAPTIC
+[dhdComUSB::OpenDeviceCommunications():19.56.18.6100] - Set Baud Rate Status: 0
+[dhdComUSB::OpenDeviceCommunications():19.56.18.6407] - update() failed
+[dhdComUSB::OpenDeviceCommunications():19.56.18.6718] - update() okay after 2 updates
+[dhdComUSB::OpenDeviceCommunications():19.56.18.6718] - Returning 0
+[dhdComUSB::changeGrip():19.56.18.8718] - New Grip: G_A
+[dhdComUSB::changeGrip():19.56.18.8722] - Started grip change
+[changeGripThreadFunc::19.56.18.8725] - deleting old grip object
+[changeGripThreadFunc::19.56.18.8725] - Loading grip type G_A
+[changeGripThreadFunc::19.56.18.8771] - Loading delta
+[dhdDelta():19.56.18.8798] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.56.18.8803] - Done loading new grip
+[dhdComUSB::processData():19.56.18.9101] - G_C
+[dhdComUSB::changeGrip():19.56.18.9102] - New Grip: G_C
+[dhdComUSB::changeGrip():19.56.18.9104] - Started grip change
+[changeGripThreadFunc::19.56.18.9110] - deleting old grip object
+[changeGripThreadFunc::19.56.18.9114] - Loading grip type G_C
+[changeGripThreadFunc::19.56.18.9145] - Loading delta
+[dhdDelta():19.56.18.9147] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.56.18.9147] - Done loading new grip
+[dhdComUSB::tryCalibration():19.56.19.0304] - HomeDisabled, LED Blue
+[dhdComUSB::processData():19.56.19.3289] - G_C
+[dhdComUSB::processData():19.56.19.7266] - G_C
+[dhdComUSB::processData():19.56.20.2283] - G_C
+[dhdComUSB::processData():19.56.20.7286] - G_C
+[dhdComUSB::processData():19.56.21.2270] - G_C
+[dhdComUSB::processData():19.56.21.7290] - G_C
+[dhdComUSB::processData():19.56.22.2281] - G_C
+[dhdComUSB::dhdComUSB():19.56.22.4529] - Constructor
+[dhdComUSB::close():19.56.22.4530] - Closed
+[dhdOpenWithReset():19.56.22.5035] - currentDevice = 0, l_serNum = 16000329, is NOT smart
+[dhdOpenWithReset():19.56.22.5121] - l_serNum after getFileName = 16000329
+[dhdOpenWithReset():19.56.22.5123] - Found falcon_12_0101.bin at C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin
+[dhdOpenWithReset():19.56.22.5124] - comUSB[0]open(16000329, C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, False)
+[dhdComUSB::open():19.56.22.5124] - Open(C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, false)
+[dhdComUSB::open():19.56.22.5136] - OpenUSBPort succeeded after 1 tries
+[dhdComUSB::open():19.56.22.5136] - deviceType = 0
+[dhdComUSB::open():19.56.22.5136] - deviceID   = 67357512d
+[dhdComUSB::open():19.56.22.5136] - deviceSN   = 16000329
+[dhdComUSB::open():19.56.22.5136] - deviceDesc = FALCON HAPTIC
+[dhdComUSB::OpenDeviceCommunications():19.56.22.5137] - Set Baud Rate Status: 0
+[dhdComUSB::OpenDeviceCommunications():19.56.22.5444] - update() failed
+[dhdComUSB::OpenDeviceCommunications():19.56.22.5755] - update() okay after 2 updates
+[dhdComUSB::OpenDeviceCommunications():19.56.22.5756] - Returning 0
+[dhdComUSB::changeGrip():19.56.22.7756] - New Grip: G_A
+[dhdComUSB::changeGrip():19.56.22.7757] - Started grip change
+[changeGripThreadFunc::19.56.22.7758] - deleting old grip object
+[changeGripThreadFunc::19.56.22.7759] - Loading grip type G_A
+[changeGripThreadFunc::19.56.22.7784] - Loading delta
+[dhdDelta():19.56.22.7786] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.56.22.7786] - Done loading new grip
+[dhdComUSB::processData():19.56.22.8136] - G_C
+[dhdComUSB::changeGrip():19.56.22.8136] - New Grip: G_C
+[dhdComUSB::changeGrip():19.56.22.8137] - Started grip change
+[changeGripThreadFunc::19.56.22.8139] - deleting old grip object
+[changeGripThreadFunc::19.56.22.8141] - Loading grip type G_C
+[changeGripThreadFunc::19.56.22.8163] - Loading delta
+[dhdDelta():19.56.22.8164] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.56.22.8164] - Done loading new grip
+[dhdComUSB::tryCalibration():19.56.22.9359] - HomeDisabled, LED Blue
+[dhdComUSB::processData():19.56.23.1861] - G_C
+[dhdComUSB::processData():19.56.23.2302] - G_C
+[dhdComUSB::processData():19.56.23.7295] - G_C
+[dhdComUSB::processData():19.56.24.2280] - G_C
+[dhdComUSB::processData():19.56.24.7293] - G_C
+[dhdComUSB::processData():19.56.25.2286] - G_C
+[dhdComUSB::processData():19.56.25.7299] - G_C
+[dhdComUSB::processData():19.56.26.2284] - G_C
+[dhdComUSB::processData():19.56.26.7299] - G_C
+[dhdComUSB::processData():19.56.27.2293] - G_C
+[dhdComUSB::processData():19.56.27.7304] - G_C
+[dhdComUSB::processData():19.56.28.2298] - G_C
+[dhdComUSB::processData():19.56.28.7294] - G_C
+[dhdComUSB::processData():19.56.29.2302] - G_C
+[dhdComUSB::processData():19.56.29.7306] - G_C
+[dhdComUSB::processData():19.56.30.2301] - G_C
+[dhdComUSB::processData():19.56.30.7312] - G_C
+[dhdComUSB::processData():19.56.31.2305] - G_C
+[dhdComUSB::processData():19.56.31.7310] - G_C
+[dhdComUSB::processData():19.56.32.2303] - G_C
+[dhdComUSB::processData():19.56.32.7317] - G_C
+[dhdComUSB::processData():19.56.33.2313] - G_C
+[dhdComUSB::processData():19.56.33.7308] - G_C
+[dhdComUSB::processData():19.56.34.2322] - G_C
+[dhdComUSB::processData():19.56.34.7314] - G_C
+[dhdComUSB::processData():19.56.35.2319] - G_C
+[dhdComUSB::processData():19.56.35.7323] - G_C
+[dhdComUSB::processData():19.56.36.2319] - G_C
+[dhdComUSB::processData():19.56.36.7330] - G_C
+[dhdComUSB::processData():19.56.37.2323] - G_C
+[dhdComUSB::processData():19.56.37.7327] - G_C
+[dhdComUSB::dhdComUSB():19.56.38.0022] - Constructor
+[dhdComUSB::close():19.56.38.0023] - Closed
+[dhdOpenWithReset():19.56.38.0250] - currentDevice = 0, l_serNum = 16000329, is NOT smart
+[dhdOpenWithReset():19.56.38.0334] - l_serNum after getFileName = 16000329
+[dhdOpenWithReset():19.56.38.0336] - Found falcon_12_0101.bin at C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin
+[dhdOpenWithReset():19.56.38.0336] - comUSB[0]open(16000329, C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, False)
+[dhdComUSB::open():19.56.38.0336] - Open(C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, false)
+[dhdComUSB::open():19.56.38.0351] - OpenUSBPort succeeded after 1 tries
+[dhdComUSB::open():19.56.38.0351] - deviceType = 0
+[dhdComUSB::open():19.56.38.0351] - deviceID   = 67357512d
+[dhdComUSB::open():19.56.38.0351] - deviceSN   = 16000329
+[dhdComUSB::open():19.56.38.0351] - deviceDesc = FALCON HAPTIC
+[dhdComUSB::OpenDeviceCommunications():19.56.38.0352] - Set Baud Rate Status: 0
+[dhdComUSB::OpenDeviceCommunications():19.56.38.0659] - update() failed
+[dhdComUSB::OpenDeviceCommunications():19.56.38.0969] - update() okay after 2 updates
+[dhdComUSB::OpenDeviceCommunications():19.56.38.0970] - Returning 0
+[dhdComUSB::changeGrip():19.56.38.2973] - New Grip: G_A
+[dhdComUSB::changeGrip():19.56.38.2976] - Started grip change
+[changeGripThreadFunc::19.56.38.2981] - deleting old grip object
+[changeGripThreadFunc::19.56.38.2982] - Loading grip type G_A
+[changeGripThreadFunc::19.56.38.3028] - Loading delta
+[dhdDelta():19.56.38.3032] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.56.38.3032] - Done loading new grip
+[dhdComUSB::processData():19.56.38.3362] - G_C
+[dhdComUSB::changeGrip():19.56.38.3363] - New Grip: G_C
+[dhdComUSB::changeGrip():19.56.38.3365] - Started grip change
+[changeGripThreadFunc::19.56.38.3366] - deleting old grip object
+[changeGripThreadFunc::19.56.38.3369] - Loading grip type G_C
+[changeGripThreadFunc::19.56.38.3399] - Loading delta
+[dhdDelta():19.56.38.3401] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.56.38.3401] - Done loading new grip
+[dhdComUSB::tryCalibration():19.56.38.4568] - HomeDisabled, LED Blue
+[dhdComUSB::processData():19.56.38.7347] - G_C
+[dhdComUSB::processData():19.56.38.7377] - G_C
+[dhdComUSB::processData():19.56.39.2332] - G_C
+[dhdComUSB::processData():19.56.39.7325] - G_C
+[dhdComUSB::processData():19.56.40.2341] - G_C
+[dhdComUSB::processData():19.56.40.7337] - G_C
+[dhdComUSB::processData():19.56.41.2330] - G_C
+[dhdComUSB::processData():19.56.41.7343] - G_C
+[dhdComUSB::processData():19.56.42.2337] - G_C
+[dhdComUSB::processData():19.56.42.7350] - G_C
+[dhdComUSB::processData():19.56.43.2335] - G_C
+[dhdComUSB::processData():19.56.43.7350] - G_C
+[dhdComUSB::processData():19.56.44.2346] - G_C
+[dhdComUSB::processData():19.56.44.7352] - G_C
+[dhdComUSB::processData():19.56.45.2346] - G_C
+[dhdComUSB::processData():19.56.45.7351] - G_C
+[dhdComUSB::processData():19.56.46.2357] - G_C
+[dhdComUSB::processData():19.56.46.7352] - G_C
+[dhdComUSB::processData():19.56.47.2356] - G_C
+[dhdComUSB::processData():19.56.47.7360] - G_C
+[dhdComUSB::processData():19.56.48.2363] - G_C
+[dhdComUSB::processData():19.56.48.7372] - G_C
+[dhdComUSB::processData():19.56.49.2352] - G_C
+[dhdComUSB::processData():19.56.49.7364] - G_C
+[dhdComUSB::processData():19.56.50.2368] - G_C
+[dhdComUSB::processData():19.56.50.7374] - G_C
+[dhdComUSB::processData():19.56.51.2370] - G_C
+[dhdComUSB::processData():19.56.51.7376] - G_C
+[dhdComUSB::processData():19.56.52.2370] - G_C
+[dhdComUSB::processData():19.56.52.7374] - G_C
+[dhdComUSB::processData():19.56.53.2368] - G_C
+[dhdComUSB::processData():19.56.53.7382] - G_C
+[dhdComUSB::processData():19.56.54.2377] - G_C
+[dhdComUSB::processData():19.56.54.7381] - G_C
+[dhdComUSB::processData():19.56.55.2388] - G_C
+[dhdComUSB::processData():19.56.55.7382] - G_C
+[dhdComUSB::processData():19.56.56.2386] - G_C
+[dhdComUSB::processData():19.56.56.7393] - G_C
+[dhdComUSB::processData():19.56.57.2385] - G_C
+[dhdComUSB::processData():19.56.57.7429] - G_C
+[dhdComUSB::dhdComUSB():19.56.57.8125] - Constructor
+[dhdComUSB::close():19.56.57.8126] - Closed
+[dhdOpenWithReset():19.56.57.8520] - currentDevice = 0, l_serNum = 16000329, is NOT smart
+[dhdOpenWithReset():19.56.57.8606] - l_serNum after getFileName = 16000329
+[dhdOpenWithReset():19.56.57.8608] - Found falcon_12_0101.bin at C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin
+[dhdOpenWithReset():19.56.57.8609] - comUSB[0]open(16000329, C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, False)
+[dhdComUSB::open():19.56.57.8609] - Open(C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, false)
+[dhdComUSB::open():19.56.57.8621] - OpenUSBPort succeeded after 1 tries
+[dhdComUSB::open():19.56.57.8622] - deviceType = 0
+[dhdComUSB::open():19.56.57.8622] - deviceID   = 67357512d
+[dhdComUSB::open():19.56.57.8622] - deviceSN   = 16000329
+[dhdComUSB::open():19.56.57.8622] - deviceDesc = FALCON HAPTIC
+[dhdComUSB::OpenDeviceCommunications():19.56.57.8623] - Set Baud Rate Status: 0
+[dhdComUSB::OpenDeviceCommunications():19.56.57.8930] - update() failed
+[dhdComUSB::OpenDeviceCommunications():19.56.57.9241] - update() okay after 2 updates
+[dhdComUSB::OpenDeviceCommunications():19.56.57.9241] - Returning 0
+[dhdComUSB::changeGrip():19.56.58.1241] - New Grip: G_A
+[dhdComUSB::changeGrip():19.56.58.1243] - Started grip change
+[changeGripThreadFunc::19.56.58.1244] - deleting old grip object
+[changeGripThreadFunc::19.56.58.1244] - Loading grip type G_A
+[changeGripThreadFunc::19.56.58.1270] - Loading delta
+[dhdDelta():19.56.58.1272] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.56.58.1272] - Done loading new grip
+[dhdComUSB::processData():19.56.58.1623] - G_C
+[dhdComUSB::changeGrip():19.56.58.1623] - New Grip: G_C
+[dhdComUSB::changeGrip():19.56.58.1624] - Started grip change
+[changeGripThreadFunc::19.56.58.1626] - deleting old grip object
+[changeGripThreadFunc::19.56.58.1628] - Loading grip type G_C
+[changeGripThreadFunc::19.56.58.1652] - Loading delta
+[dhdDelta():19.56.58.1654] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.56.58.1654] - Done loading new grip
+[dhdComUSB::processData():19.56.58.2466] - G_C
+[dhdComUSB::tryCalibration():19.56.58.2830] - HomeDisabled, LED Blue
+[dhdComUSB::processData():19.56.58.5370] - G_C
+[dhdComUSB::processData():19.56.58.7391] - G_C
+[dhdComUSB::processData():19.56.59.2395] - G_C
+[dhdComUSB::processData():19.56.59.7389] - G_C
+[dhdComUSB::processData():19.57.00.2403] - G_C
+[dhdComUSB::processData():19.57.00.7406] - G_C
+[dhdComUSB::processData():19.57.01.2403] - G_C
+[dhdComUSB::processData():19.57.01.7403] - G_C
+[dhdComUSB::processData():19.57.02.2398] - G_C
+[dhdComUSB::processData():19.57.02.7412] - G_C
+[dhdComUSB::processData():19.57.03.2410] - G_C
+[dhdComUSB::processData():19.57.03.7402] - G_C
+[dhdComUSB::processData():19.57.04.2398] - G_C
+[dhdComUSB::processData():19.57.04.7412] - G_C
+[dhdComUSB::processData():19.57.05.2406] - G_C
+[dhdComUSB::processData():19.57.05.7419] - G_C
+[dhdComUSB::processData():19.57.06.2414] - G_C
+[dhdComUSB::processData():19.57.06.7418] - G_C
+[dhdComUSB::processData():19.57.07.2410] - G_C
+[dhdComUSB::processData():19.57.07.7424] - G_C
+[dhdComUSB::processData():19.57.08.2417] - G_C
+[dhdComUSB::processData():19.57.08.7430] - G_C
+[dhdComUSB::processData():19.57.09.2414] - G_C
+[dhdComUSB::processData():19.57.09.7428] - G_C
+[dhdComUSB::processData():19.57.10.2422] - G_C
+[dhdComUSB::processData():19.57.10.7437] - G_C
+[dhdComUSB::processData():19.57.11.2429] - G_C
+[dhdComUSB::processData():19.57.11.7423] - G_C
+[dhdComUSB::processData():19.57.12.2436] - G_C
+[dhdComUSB::processData():19.57.12.7431] - G_C
+[dhdComUSB::processData():19.57.13.2443] - G_C
+[dhdComUSB::processData():19.57.13.7427] - G_C
+[dhdComUSB::processData():19.57.14.2443] - G_C
+[dhdComUSB::processData():19.57.14.7436] - G_C
+[dhdComUSB::processData():19.57.15.2432] - G_C
+[dhdComUSB::processData():19.57.15.7444] - G_C
+[dhdComUSB::processData():19.57.16.2439] - G_C
+[dhdComUSB::processData():19.57.16.7452] - G_C
+[dhdComUSB::processData():19.57.17.2436] - G_C
+[dhdComUSB::processData():19.57.17.7450] - G_C
+[dhdComUSB::processData():19.57.18.2443] - G_C
+[dhdComUSB::processData():19.57.18.7456] - G_C
+[dhdComUSB::processData():19.57.19.2456] - G_C
+[dhdComUSB::processData():19.57.19.7455] - G_C
+[dhdComUSB::processData():19.57.20.2448] - G_C
+[dhdComUSB::processData():19.57.20.7452] - G_C
+[dhdComUSB::processData():19.57.21.2466] - G_C
+[dhdComUSB::processData():19.57.21.7452] - G_C
+[dhdComUSB::processData():19.57.22.2456] - G_C
+[dhdComUSB::processData():19.57.22.7461] - G_C
+[dhdComUSB::processData():19.57.23.2469] - G_C
+[dhdComUSB::processData():19.57.23.7462] - G_C
+[dhdComUSB::processData():19.57.24.2465] - G_C
+[dhdComUSB::processData():19.57.24.7460] - G_C
+[dhdComUSB::processData():19.57.25.2472] - G_C
+[dhdComUSB::processData():19.57.25.7479] - G_C
+[dhdComUSB::processData():19.57.26.2463] - G_C
+[dhdComUSB::processData():19.57.26.7489] - G_C
+[dhdComUSB::processData():19.57.27.2471] - G_C
+[dhdComUSB::processData():19.57.27.7484] - G_C
+[dhdComUSB::processData():19.57.28.2467] - G_C
+[dhdComUSB::processData():19.57.28.7482] - G_C
+[dhdComUSB::processData():19.57.29.2487] - G_C
+[dhdComUSB::processData():19.57.29.7481] - G_C
+[dhdComUSB::processData():19.57.30.2483] - G_C
+[dhdComUSB::processData():19.57.30.7477] - G_C
+[dhdComUSB::processData():19.57.31.2491] - G_C
+[dhdComUSB::processData():19.57.31.7486] - G_C
+[dhdComUSB::processData():19.57.32.2481] - G_C
+[dhdComUSB::processData():19.57.32.7496] - G_C
+[dhdComUSB::processData():19.57.33.2489] - G_C
+[dhdComUSB::processData():19.57.33.7502] - G_C
+[dhdComUSB::processData():19.57.34.2486] - G_C
+[dhdComUSB::processData():19.57.34.7501] - G_C
+[dhdComUSB::processData():19.57.35.2496] - G_C
+[dhdComUSB::processData():19.57.35.7509] - G_C
+[dhdComUSB::processData():19.57.36.2500] - G_C
+[dhdComUSB::processData():19.57.36.7497] - G_C
+[dhdComUSB::processData():19.57.37.2511] - G_C
+[dhdComUSB::processData():19.57.37.7499] - G_C
+[dhdComUSB::processData():19.57.38.2509] - G_C
+[dhdComUSB::processData():19.57.38.7513] - G_C
+[dhdComUSB::processData():19.57.39.2507] - G_C
+[dhdComUSB::processData():19.57.39.7519] - G_C
+[dhdComUSB::processData():19.57.40.2513] - G_C
+[dhdComUSB::processData():19.57.40.7517] - G_C
+[dhdComUSB::processData():19.57.41.2510] - G_C
+[dhdComUSB::processData():19.57.41.7524] - G_C
+[dhdComUSB::processData():19.57.42.2517] - G_C
+[dhdComUSB::processData():19.57.42.7525] - G_C
+[dhdComUSB::processData():19.57.43.2531] - G_C
+[dhdComUSB::processData():19.57.43.7521] - G_C
+[dhdComUSB::processData():19.57.44.2534] - G_C
+[dhdComUSB::processData():19.57.44.7517] - G_C
+[dhdComUSB::processData():19.57.45.2531] - G_C
+[dhdComUSB::processData():19.57.45.7527] - G_C
+[dhdComUSB::processData():19.57.46.2522] - G_C
+[dhdComUSB::processData():19.57.46.7535] - G_C
+[dhdComUSB::processData():19.57.47.2529] - G_C
+[dhdComUSB::processData():19.57.47.7545] - G_C
+[dhdComUSB::processData():19.57.48.2536] - G_C
+[dhdComUSB::processData():19.57.48.7539] - G_C
+[dhdComUSB::processData():19.57.49.2532] - G_C
+[dhdComUSB::processData():19.57.49.7546] - G_C
+[dhdComUSB::processData():19.57.50.2540] - G_C
+[dhdComUSB::processData():19.57.50.7544] - G_C
+[dhdComUSB::processData():19.57.51.2539] - G_C
+[dhdComUSB::processData():19.57.51.7542] - G_C
+[dhdComUSB::processData():19.57.52.2556] - G_C
+[dhdComUSB::processData():19.57.52.7540] - G_C
+[dhdComUSB::processData():19.57.53.2553] - G_C
+[dhdComUSB::processData():19.57.53.7547] - G_C
+[dhdComUSB::processData():19.57.54.2561] - G_C
+[dhdComUSB::processData():19.57.54.7554] - G_C
+[dhdComUSB::processData():19.57.55.2557] - G_C
+[dhdComUSB::processData():19.57.55.7551] - G_C
+[dhdComUSB::processData():19.57.56.2565] - G_C
+[dhdComUSB::processData():19.57.56.7558] - G_C
+[dhdComUSB::processData():19.57.57.2553] - G_C
+[dhdComUSB::processData():19.57.57.7567] - G_C
+[dhdComUSB::processData():19.57.58.2560] - G_C
+[dhdComUSB::processData():19.57.58.7574] - G_C
+[dhdComUSB::processData():19.57.59.2567] - G_C
+[dhdComUSB::processData():19.57.59.7571] - G_C
+[dhdComUSB::processData():19.58.00.2565] - G_C
+[dhdComUSB::processData():19.58.00.7576] - G_C
+[dhdComUSB::processData():19.58.01.2579] - G_C
+[dhdComUSB::processData():19.58.01.7583] - G_C
+[dhdComUSB::processData():19.58.02.2569] - G_C
+[dhdComUSB::processData():19.58.02.7576] - G_C
+[dhdComUSB::processData():19.58.03.2574] - G_C
+[dhdComUSB::processData():19.58.03.7585] - G_C
+[dhdComUSB::processData():19.58.04.2579] - G_C
+[dhdComUSB::processData():19.58.04.7582] - G_C
+[dhdComUSB::processData():19.58.05.2576] - G_C
+[dhdComUSB::processData():19.58.05.7589] - G_C
+[dhdComUSB::processData():19.58.06.2583] - G_C
+[dhdComUSB::processData():19.58.06.7596] - G_C
+[dhdComUSB::processData():19.58.07.2580] - G_C
+[dhdComUSB::processData():19.58.07.7594] - G_C
+[dhdComUSB::processData():19.58.08.2587] - G_C
+[dhdComUSB::processData():19.58.08.7601] - G_C
+[dhdComUSB::processData():19.58.09.2594] - G_C
+[dhdComUSB::processData():19.58.09.7598] - G_C
+[dhdComUSB::processData():19.58.10.2601] - G_C
+[dhdComUSB::processData():19.58.10.7595] - G_C
+[dhdComUSB::processData():19.58.11.2608] - G_C
+[dhdComUSB::processData():19.58.11.7602] - G_C
+[dhdComUSB::processData():19.58.12.2615] - G_C
+[dhdComUSB::processData():19.58.12.7599] - G_C
+[dhdComUSB::processData():19.58.13.2613] - G_C
+[dhdComUSB::processData():19.58.13.7606] - G_C
+[dhdComUSB::processData():19.58.14.2620] - G_C
+[dhdComUSB::processData():19.58.14.7613] - G_C
+[dhdComUSB::processData():19.58.15.2617] - G_C
+[dhdComUSB::processData():19.58.15.7611] - G_C
+[dhdComUSB::processData():19.58.16.2624] - G_C
+[dhdComUSB::processData():19.58.16.7618] - G_C
+[dhdComUSB::processData():19.58.17.2631] - G_C
+[dhdComUSB::processData():19.58.17.7625] - G_C
+[dhdComUSB::processData():19.58.18.2628] - G_C
+[dhdComUSB::processData():19.58.18.7632] - G_C
+[dhdComUSB::processData():19.58.19.2625] - G_C
+[dhdComUSB::processData():19.58.19.7639] - G_C
+[dhdComUSB::processData():19.58.20.2623] - G_C
+[dhdComUSB::processData():19.58.20.7636] - G_C
+[dhdComUSB::processData():19.58.21.2630] - G_C
+[dhdComUSB::processData():19.58.21.7636] - G_C
+[dhdComUSB::processData():19.58.22.2641] - G_C
+[dhdComUSB::processData():19.58.22.7635] - G_C
+[dhdComUSB::processData():19.58.23.2650] - G_C
+[dhdComUSB::processData():19.58.23.7632] - G_C
+[dhdComUSB::processData():19.58.24.2646] - G_C
+[dhdComUSB::processData():19.58.24.7651] - G_C
+[dhdComUSB::processData():19.58.25.2655] - G_C
+[dhdComUSB::processData():19.58.25.7651] - G_C
+[dhdComUSB::processData():19.58.26.2659] - G_C
+[dhdComUSB::processData():19.58.26.7651] - G_C
+[dhdComUSB::processData():19.58.27.2660] - G_C
+[dhdComUSB::processData():19.58.27.7661] - G_C
+[dhdComUSB::processData():19.58.28.2654] - G_C
+[dhdComUSB::processData():19.58.28.7671] - G_C
+[dhdComUSB::processData():19.58.29.2652] - G_C
+[dhdComUSB::processData():19.58.29.7666] - G_C
+[dhdComUSB::processData():19.58.30.2658] - G_C
+[dhdComUSB::processData():19.58.30.7671] - G_C
+[dhdComUSB::processData():19.58.31.2664] - G_C
+[dhdComUSB::processData():19.58.31.7678] - G_C
+[dhdComUSB::processData():19.58.32.2662] - G_C
+[dhdComUSB::processData():19.58.32.7675] - G_C
+[dhdComUSB::processData():19.58.33.2669] - G_C
+[dhdComUSB::processData():19.58.33.7683] - G_C
+[dhdComUSB::processData():19.58.34.2680] - G_C
+[dhdComUSB::processData():19.58.34.7674] - G_C
+[dhdComUSB::processData():19.58.35.2689] - G_C
+[dhdComUSB::processData():19.58.35.7682] - G_C
+[dhdComUSB::processData():19.58.36.2677] - G_C
+[dhdComUSB::processData():19.58.36.7689] - G_C
+[dhdComUSB::processData():19.58.37.2685] - G_C
+[dhdComUSB::processData():19.58.37.7699] - G_C
+[dhdComUSB::processData():19.58.38.2683] - G_C
+[dhdComUSB::processData():19.58.38.7696] - G_C
+[dhdComUSB::dhdComUSB():19.58.38.9628] - Constructor
+[dhdComUSB::close():19.58.38.9629] - Closed
+[dhdOpenWithReset():19.58.38.9845] - currentDevice = 0, l_serNum = 16000329, is NOT smart
+[dhdOpenWithReset():19.58.38.9932] - l_serNum after getFileName = 16000329
+[dhdOpenWithReset():19.58.38.9934] - Found falcon_12_0101.bin at C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin
+[dhdOpenWithReset():19.58.38.9934] - comUSB[0]open(16000329, C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, False)
+[dhdComUSB::open():19.58.38.9934] - Open(C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, false)
+[dhdComUSB::open():19.58.38.9947] - OpenUSBPort succeeded after 1 tries
+[dhdComUSB::open():19.58.38.9947] - deviceType = 0
+[dhdComUSB::open():19.58.38.9947] - deviceID   = 67357512d
+[dhdComUSB::open():19.58.38.9947] - deviceSN   = 16000329
+[dhdComUSB::open():19.58.38.9947] - deviceDesc = FALCON HAPTIC
+[dhdComUSB::OpenDeviceCommunications():19.58.38.9948] - Set Baud Rate Status: 0
+[dhdComUSB::OpenDeviceCommunications():19.58.39.0257] - update() failed
+[dhdComUSB::OpenDeviceCommunications():19.58.39.0568] - update() okay after 2 updates
+[dhdComUSB::OpenDeviceCommunications():19.58.39.0568] - Returning 0
+[dhdComUSB::changeGrip():19.58.39.2568] - New Grip: G_A
+[dhdComUSB::changeGrip():19.58.39.2570] - Started grip change
+[changeGripThreadFunc::19.58.39.2572] - deleting old grip object
+[changeGripThreadFunc::19.58.39.2572] - Loading grip type G_A
+[changeGripThreadFunc::19.58.39.2613] - Loading delta
+[dhdDelta():19.58.39.2615] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.58.39.2615] - Done loading new grip
+[dhdComUSB::processData():19.58.39.2950] - G_C
+[dhdComUSB::changeGrip():19.58.39.2951] - New Grip: G_C
+[dhdComUSB::changeGrip():19.58.39.2952] - Started grip change
+[changeGripThreadFunc::19.58.39.2955] - deleting old grip object
+[changeGripThreadFunc::19.58.39.2957] - Loading grip type G_C
+[changeGripThreadFunc::19.58.39.2990] - Loading delta
+[dhdDelta():19.58.39.2995] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.58.39.2995] - Done loading new grip
+[dhdComUSB::tryCalibration():19.58.39.4164] - HomeDisabled, LED Blue
+[dhdComUSB::processData():19.58.39.7005] - G_C
+[dhdComUSB::processData():19.58.39.7695] - G_C
+[dhdComUSB::processData():19.58.40.2701] - G_C
+[dhdComUSB::processData():19.58.40.7705] - G_C
+[dhdComUSB::processData():19.58.41.2691] - G_C
+[dhdComUSB::processData():19.58.41.7704] - G_C
+[dhdComUSB::processData():19.58.42.2709] - G_C
+[dhdComUSB::processData():19.58.42.7712] - G_C
+[dhdComUSB::processData():19.58.43.2709] - G_C
+[dhdComUSB::processData():19.58.43.7709] - G_C
+[dhdComUSB::processData():19.58.44.2713] - G_C
+[dhdComUSB::processData():19.58.44.7710] - G_C
+[dhdComUSB::processData():19.58.45.2720] - G_C
+[dhdComUSB::processData():19.58.45.7714] - G_C
+[dhdComUSB::processData():19.58.46.2729] - G_C
+[dhdComUSB::dhdComUSB():19.58.46.5501] - Constructor
+[dhdComUSB::close():19.58.46.5502] - Closed
+[dhdOpenWithReset():19.58.46.5719] - currentDevice = 0, l_serNum = 16000329, is NOT smart
+[dhdOpenWithReset():19.58.46.5803] - l_serNum after getFileName = 16000329
+[dhdOpenWithReset():19.58.46.5804] - Found falcon_12_0101.bin at C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin
+[dhdOpenWithReset():19.58.46.5804] - comUSB[0]open(16000329, C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, False)
+[dhdComUSB::open():19.58.46.5804] - Open(C:\Program Files (x86)\Novint\Falcon\HDAL\bin\falcon_12_0101.bin, false)
+[dhdComUSB::open():19.58.46.5810] - OpenUSBPort succeeded after 1 tries
+[dhdComUSB::open():19.58.46.5810] - deviceType = 0
+[dhdComUSB::open():19.58.46.5810] - deviceID   = 67357512d
+[dhdComUSB::open():19.58.46.5810] - deviceSN   = 16000329
+[dhdComUSB::open():19.58.46.5810] - deviceDesc = FALCON HAPTIC
+[dhdComUSB::OpenDeviceCommunications():19.58.46.5811] - Set Baud Rate Status: 0
+[dhdComUSB::OpenDeviceCommunications():19.58.46.6120] - update() failed
+[dhdComUSB::OpenDeviceCommunications():19.58.46.6432] - update() okay after 2 updates
+[dhdComUSB::OpenDeviceCommunications():19.58.46.6433] - Returning 0
+[dhdComUSB::changeGrip():19.58.46.8434] - New Grip: G_A
+[dhdComUSB::changeGrip():19.58.46.8435] - Started grip change
+[changeGripThreadFunc::19.58.46.8436] - deleting old grip object
+[changeGripThreadFunc::19.58.46.8437] - Loading grip type G_A
+[changeGripThreadFunc::19.58.46.8461] - Loading delta
+[dhdDelta():19.58.46.8463] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.58.46.8463] - Done loading new grip
+[dhdComUSB::processData():19.58.46.8803] - G_C
+[dhdComUSB::changeGrip():19.58.46.8803] - New Grip: G_C
+[dhdComUSB::changeGrip():19.58.46.8804] - Started grip change
+[changeGripThreadFunc::19.58.46.8807] - deleting old grip object
+[changeGripThreadFunc::19.58.46.8809] - Loading grip type G_C
+[changeGripThreadFunc::19.58.46.8833] - Loading delta
+[dhdDelta():19.58.46.8834] - Did not find FalconCommon.txt
+[changeGripThreadFunc::19.58.46.8834] - Done loading new grip
+[dhdComUSB::tryCalibration():19.58.47.0006] - HomeDisabled, LED Blue
+[dhdComUSB::processData():19.58.47.2616] - G_C
+[dhdComUSB::processData():19.58.47.2722] - G_C
+[dhdComUSB::processData():19.58.47.7720] - G_C
+[dhdComUSB::processData():19.58.48.2726] - G_C
+[dhdComUSB::processData():19.58.48.7730] - G_C
+[dhdComUSB::processData():19.58.49.2721] - G_C
+[dhdComUSB::processData():19.58.49.7729] - G_C
+[dhdComUSB::processData():19.58.50.2738] - G_C
+[dhdComUSB::processData():19.58.50.7730] - G_C
+[dhdComUSB::processData():19.58.51.2744] - G_C
+[dhdComUSB::processData():19.58.51.7738] - G_C
+[dhdComUSB::processData():19.58.52.2743] - G_C
+[dhdComUSB::processData():19.58.52.7746] - G_C
+[dhdComUSB::processData():19.58.53.2739] - G_C
+[dhdComUSB::processData():19.58.53.7751] - G_C
+[dhdComUSB::processData():19.58.54.2746] - G_C
+[dhdComUSB::processData():19.58.54.7754] - G_C
+[dhdComUSB::processData():19.58.55.2757] - G_C
+[dhdComUSB::processData():19.58.55.7749] - G_C
+[dhdComUSB::processData():19.58.56.2748] - G_C
+[dhdComUSB::processData():19.58.56.7764] - G_C
+[dhdComUSB::processData():19.58.57.2756] - G_C
+[dhdComUSB::processData():19.58.57.7759] - G_C
+[dhdComUSB::processData():19.58.58.2753] - G_C
+[dhdComUSB::processData():19.58.58.7767] - G_C
+[dhdComUSB::processData():19.58.59.2770] - G_C
+[dhdComUSB::processData():19.58.59.7763] - G_C
+[dhdComUSB::processData():19.59.00.2777] - G_C
+[dhdComUSB::processData():19.59.00.7771] - G_C
+[dhdComUSB::processData():19.59.01.2774] - G_C
+[dhdComUSB::processData():19.59.01.7768] - G_C
+[dhdComUSB::processData():19.59.02.2781] - G_C
+[dhdComUSB::processData():19.59.02.7775] - G_C
+[dhdComUSB::processData():19.59.03.2788] - G_C
+[dhdComUSB::processData():19.59.03.7772] - G_C
+[dhdComUSB::processData():19.59.04.2786] - G_C
+[dhdComUSB::processData():19.59.04.7779] - G_C
+[dhdComUSB::processData():19.59.05.2793] - G_C
+[dhdComUSB::processData():19.59.05.7786] - G_C
+[dhdComUSB::processData():19.59.06.2790] - G_C
+[dhdComUSB::processData():19.59.06.7783] - G_C
+[dhdComUSB::processData():19.59.07.2788] - G_C
+[dhdComUSB::processData():19.59.07.7800] - G_C
+[dhdComUSB::processData():19.59.08.2804] - G_C
+[dhdComUSB::processData():19.59.08.7798] - G_C
+[dhdComUSB::processData():19.59.09.2791] - G_C
+[dhdComUSB::processData():19.59.09.7804] - G_C
+[dhdComUSB::processData():19.59.10.2798] - G_C
+[dhdComUSB::processData():19.59.10.7812] - G_C
+[dhdComUSB::processData():19.59.11.2795] - G_C
+[dhdComUSB::processData():19.59.11.7809] - G_C
+[dhdComUSB::processData():19.59.12.2802] - G_C
+[dhdComUSB::processData():19.59.12.7816] - G_C
+[dhdComUSB::processData():19.59.13.2809] - G_C
+[dhdComUSB::processData():19.59.13.7823] - G_C
+[dhdComUSB::processData():19.59.14.2806] - G_C
+[dhdComUSB::processData():19.59.14.7823] - G_C
+[dhdComUSB::processData():19.59.15.2824] - G_C
+[dhdComUSB::processData():19.59.15.7818] - G_C
+[dhdComUSB::processData():19.59.16.2826] - G_C
+[dhdComUSB::processData():19.59.16.7831] - G_C
+[dhdComUSB::processData():19.59.17.2824] - G_C
+[dhdComUSB::processData():19.59.17.7827] - G_C
+[dhdComUSB::processData():19.59.18.2831] - G_C
+[dhdComUSB::processData():19.59.18.7835] - G_C
+[dhdComUSB::processData():19.59.19.2826] - G_C
+[dhdComUSB::processData():19.59.19.7840] - G_C
+[dhdComUSB::processData():19.59.20.2824] - G_C
+[dhdComUSB::processData():19.59.20.7830] - G_C
+[dhdComUSB::processData():19.59.21.2844] - G_C
+[dhdComUSB::processData():19.59.21.7838] - G_C
+[dhdComUSB::processData():19.59.22.2843] - G_C
+[dhdComUSB::processData():19.59.22.7834] - G_C
+[dhdComUSB::processData():19.59.23.2848] - G_C
+[dhdComUSB::processData():19.59.23.7847] - G_C
+[dhdComUSB::processData():19.59.24.2853] - G_C
+[dhdComUSB::processData():19.59.24.7848] - G_C
+[dhdComUSB::processData():19.59.25.2859] - G_C
+[dhdComUSB::processData():19.59.25.7843] - G_C
+[dhdComUSB::processData():19.59.26.2857] - G_C
+[dhdComUSB::processData():19.59.26.7865] - G_C
+[dhdComUSB::processData():19.59.27.2847] - G_C
+[dhdComUSB::processData():19.59.27.7861] - G_C
+[dhdComUSB::processData():19.59.28.2855] - G_C
+[dhdComUSB::processData():19.59.28.7870] - G_C
+[dhdComUSB::processData():19.59.29.2869] - G_C
+[dhdComUSB::processData():19.59.29.7861] - G_C
+[dhdComUSB::processData():19.59.30.2858] - G_C
+[dhdComUSB::processData():19.59.30.7874] - G_C
+[dhdComUSB::processData():19.59.31.2867] - G_C

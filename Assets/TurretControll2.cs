@@ -8,6 +8,8 @@ public class TurretControll2 : MonoBehaviour {
 	public Transform target;
 	public float speed;
 
+	public Transform pipe;
+
 	// Use this for initialization
 	void Start () {
 	
