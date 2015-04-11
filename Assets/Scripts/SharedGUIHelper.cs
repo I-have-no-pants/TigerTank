@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using System.Collections;
 
-public class BodyGUIHelper : MonoBehaviour {
+public class SharedGUIHelper : MonoBehaviour {
 
 	public Slider Swedishness;
 	private GameManager manager;
@@ -14,7 +14,7 @@ public class BodyGUIHelper : MonoBehaviour {
 	}
 
 	private void SetSwedishness() {
-		Swedishness.maxValue = manager.MaxSwedishness;
+		//Swedishness.maxValue = manager.MaxSwedishness;
 		Swedishness.value = manager.Swedishness;
 	}
 	
