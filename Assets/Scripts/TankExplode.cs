@@ -3,7 +3,7 @@ using System.Collections;
 
 public class TankExplode : MonoBehaviour {
 
-
+	public GameObject Explosion;
 
 	public void OnDeath() {
 		FindObjectOfType<SpawnerScript> ().EnemyKilled ();
@@ -16,5 +16,8 @@ public class TankExplode : MonoBehaviour {
 
 		foreach (var t in GetComponentsInChildren<TurrentTarget>())
 			Destroy (t);
+
+		Instantiate (Explosion, transform.position, Quaternion.identity);
+		Destroy (gameObject);
 	}
 }

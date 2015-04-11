@@ -15,9 +15,12 @@ public class RussianSoldierAI : MonoBehaviour {
 	
 	public float ReloadTime;
 	private float reloadTimer;
+
+	private Animator animator;
 	
 	void Start() {
 		navigator = GetComponent<AINavigator> ();
+		animator = GetComponent<Animator> ();
 	}
 	
 	// Logic for sorting
@@ -31,6 +34,9 @@ public class RussianSoldierAI : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate() {
+
+		animator.SetFloat ("Speed", 1);
+
 		if (reloadTimer > 0)
 			reloadTimer -= Time.fixedDeltaTime;
 		
