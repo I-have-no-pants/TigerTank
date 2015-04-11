@@ -11,6 +11,12 @@ public class HealthComponent : MonoBehaviour {
 	// 1 = enemy
 	public int Team;
 
+	public bool IsDead {
+		get {
+			return Health == 0;
+		}
+	}
+
 	public float _MAXHEALTH;
 	public float health;
 	public float Health {

@@ -256,7 +256,7 @@ Prefab:
     - target: {fileID: 11474690, guid: f501fba4fde01bc44ada997b66b8da51, type: 2}
       propertyPath: target
       value: 
-      objectReference: {fileID: 513872214}
+      objectReference: {fileID: 513872215}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f501fba4fde01bc44ada997b66b8da51, type: 2}
   m_IsPrefabParent: 0
@@ -297,7 +297,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 463822, guid: 9722c302b308e584eb63eff13f26831f, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9722c302b308e584eb63eff13f26831f, type: 2}
@@ -362,10 +362,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
---- !u!1 &513872214 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 105762, guid: 9722c302b308e584eb63eff13f26831f, type: 2}
+--- !u!114 &513872215 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 11447300, guid: 9722c302b308e584eb63eff13f26831f,
+    type: 2}
   m_PrefabInternal: {fileID: 463857380}
+  m_Script: {fileID: 11500000, guid: 6442557e98d8de44684bf319860e0635, type: 3}
 --- !u!1 &650361201
 GameObject:
   m_ObjectHideFlags: 0
@@ -499,10 +501,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
---- !u!1 &741214366 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 110920, guid: f501fba4fde01bc44ada997b66b8da51, type: 2}
+--- !u!114 &741214367 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 11462324, guid: f501fba4fde01bc44ada997b66b8da51,
+    type: 2}
   m_PrefabInternal: {fileID: 454983953}
+  m_Script: {fileID: 11500000, guid: 6442557e98d8de44684bf319860e0635, type: 3}
 --- !u!1 &850816806
 GameObject:
   m_ObjectHideFlags: 0
@@ -818,7 +822,7 @@ Prefab:
     - target: {fileID: 11474690, guid: f501fba4fde01bc44ada997b66b8da51, type: 2}
       propertyPath: target
       value: 
-      objectReference: {fileID: 741214366}
+      objectReference: {fileID: 741214367}
     - target: {fileID: 110920, guid: f501fba4fde01bc44ada997b66b8da51, type: 2}
       propertyPath: m_Name
       value: EnemyTank 1

@@ -6,7 +6,7 @@ public class AITactics : MonoBehaviour {
 	public TurretScript turret;
 	private AINavigator navigator;
 	
-	public GameObject target;
+	public HealthComponent target;
 	
 	public float distance;
 
@@ -15,14 +15,28 @@ public class AITactics : MonoBehaviour {
 	void Start() {
 		navigator = GetComponent<AINavigator> ();
 	}
-	
+
+	// Logic for sorting
+	public HealthComponent FindTarget() {
+		foreach(var h in FindObjectsOfType<HealthComponent>()) {
+			if (h.Team == EnemyTeam)
+				return h;
+			
+		}
+		return null;
+	}
+
 	// Update is called once per frame
 	void FixedUpdate() {
 
-		if (!AINavigator.CanReachTargetFrom(navigator.navTarget.position, target)) {
-			Vector2 sphere = Random.insideUnitCircle;
-			Vector3 sphere2 = new Vector3(sphere.x, 0, sphere.y);
-			navigator.navTarget.position = target.transform.position + sphere2 * distance;
+		if (target == null || target.IsDead)
+			target = FindTarget ();
+		else {
+			if (!AINavigator.CanReachTargetFrom (navigator.navTarget.position, target.gameObject)) {
+				Vector2 sphere = Random.insideUnitCircle;
+				Vector3 sphere2 = new Vector3 (sphere.x, 0, sphere.y);
+				navigator.navTarget.position = target.transform.position + sphere2 * distance;
+			}
 		}
 
 		// Calculate turret's target
