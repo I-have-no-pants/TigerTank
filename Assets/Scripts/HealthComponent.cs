@@ -7,10 +7,6 @@ public class HealthComponent : MonoBehaviour {
 	void Start () {
 	}
 
-	// 0 = player
-	// 1 = enemy
-	public int Team;
-
 	public float _MAXHEALTH;
 	public float health;
 	public float Health {
@@ -22,7 +18,7 @@ public class HealthComponent : MonoBehaviour {
 				health = 0;
 				SendMessage("OnDeath");
 				Debug.Log(gameObject + " died!");
-				Destroy(this);
+				//Destroy(this);
 
 			} else {
 				SendMessage("OnDamage",value,SendMessageOptions.DontRequireReceiver);

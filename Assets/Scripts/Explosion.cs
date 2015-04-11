@@ -12,9 +12,6 @@ public class Explosion : MonoBehaviour {
 		Destroy (gameObject, Lifetime);
 		foreach (var collision in Physics.SphereCastAll(transform.position,Size,Vector3.up)) {
 			var h = collision.collider.GetComponent<HealthComponent>();
-			if (!h)
-				h = collision.collider.GetComponentInParent<HealthComponent>();
-				
 			if (h)
 				h.Health -= Damage;
 		}
