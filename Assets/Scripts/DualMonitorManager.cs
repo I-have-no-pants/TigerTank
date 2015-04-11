@@ -4,6 +4,7 @@ using System.Collections;
 public class DualMonitorManager : MonoBehaviour {
 
 	public Camera cam1;
+	public Camera cam1_overlay;
 	public Camera cam2;
 
 	// Use this for initialization
@@ -17,6 +18,8 @@ public class DualMonitorManager : MonoBehaviour {
 		var rect = cam1.rect;
 		rect.width = camS1;
 		cam1.rect = rect;
+
+		cam1_overlay.rect = rect;
 
 		rect = cam2.rect;
 		rect.width = 1f-camS1;
