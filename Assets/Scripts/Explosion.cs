@@ -6,6 +6,8 @@ public class Explosion : MonoBehaviour {
 	public float Size;
 	public float Damage;
 	public float Lifetime;
+
+	public float Force;
 	
 	// Use this for initialization
 	void Start () {
@@ -17,6 +19,13 @@ public class Explosion : MonoBehaviour {
 				
 			if (h)
 				h.Health -= Damage;
+
+			var r = collision.rigidbody;
+			if (r) {
+				if (!r.isKinematic)
+					r.AddForceAtPosition(Force * collision.point - transform.position,collision.point);
+
+			}
 		}
 	}
 	

@@ -44,6 +44,7 @@ MonoBehaviour:
   Size: 1
   Damage: 5
   Lifetime: 2
+  Force: 90
 --- !u!198 &19833034
 ParticleSystem:
   m_ObjectHideFlags: 1
