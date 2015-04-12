@@ -1,41 +1,41 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &114790
+--- !u!1 &125396
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 4
   m_Component:
-  - 4: {fileID: 447004}
-  - 198: {fileID: 19830576}
-  - 199: {fileID: 19985144}
-  - 114: {fileID: 11456904}
+  - 4: {fileID: 457390}
+  - 198: {fileID: 19844278}
+  - 199: {fileID: 19923852}
+  - 114: {fileID: 11436664}
   m_Layer: 0
-  m_Name: ExplosionSmall
+  m_Name: TankCollision
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &447004
+--- !u!4 &457390
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 114790}
+  m_GameObject: {fileID: 125396}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -57.4046021, y: -2.72205162, z: -196.516937}
+  m_LocalPosition: {x: -59.0840149, y: -3, z: -181.77417}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
---- !u!114 &11456904
+--- !u!114 &11436664
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 114790}
+  m_GameObject: {fileID: 125396}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0c789abadf1eea849a5ef859c9bf900d, type: 3}
@@ -45,12 +45,12 @@ MonoBehaviour:
   Damage: 1
   Lifetime: 2
   Force: 0
---- !u!198 &19830576
+--- !u!198 &19844278
 ParticleSystem:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 114790}
+  m_GameObject: {fileID: 125396}
   lengthInSec: 3
   startDelay: 0
   speed: 1
@@ -1098,12 +1098,12 @@ ParticleSystem:
     subEmitterCollision1: {fileID: 0}
     subEmitterDeath: {fileID: 0}
     subEmitterDeath1: {fileID: 0}
---- !u!199 &19985144
+--- !u!199 &19923852
 ParticleSystemRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 114790}
+  m_GameObject: {fileID: 125396}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -1143,5 +1143,5 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 114790}
+  m_RootGameObject: {fileID: 125396}
   m_IsPrefabParent: 1

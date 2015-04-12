@@ -31,9 +31,15 @@ public class RussianSoldierAI : MonoBehaviour {
 		}
 		return null;
 	}
-	
+
+	public float killRadius;
+
 	// Update is called once per frame
 	void FixedUpdate() {
+
+		if ((FindObjectOfType<KillSoldiers> ().transform.position - transform.position).magnitude < killRadius) {
+			GetComponent<HealthComponent>().Health-=1;
+		}
 
 		animator.SetFloat ("Speed", 1);
 
@@ -49,6 +55,8 @@ public class RussianSoldierAI : MonoBehaviour {
 				navigator.navTarget.position = target.transform.position + sphere2 * distance;
 			}
 		}
+
+
 		
 		// Calculate turret's target
 		var turretTarget = turret.GetVisualTarget ();

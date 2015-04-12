@@ -20,7 +20,7 @@ public class SharedGUIHelper : MonoBehaviour {
 	}
 
 	private void SetSwedishness() {
-		//Swedishness.maxValue = manager.MaxSwedishness;
+		Swedishness.maxValue = manager.MaxSwedishness;
 		Swedishness.value = manager.Swedishness;
 	}
 	

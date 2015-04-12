@@ -11,7 +11,7 @@ public class RussianSoldierDeath : MonoBehaviour {
 
 	public void OnDeath() {
 
-		if (Random.Range (0, 1) < AmmoChance) {
+		if (Random.Range (0f, 1f) < AmmoChance) {
 			Instantiate(AmmoBox, transform.position, Quaternion.identity);
 		}
 

@@ -112,7 +112,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Size: 2
-  Damage: 5
+  Damage: 10
   Lifetime: 2
   Force: 0
 --- !u!198 &19833034

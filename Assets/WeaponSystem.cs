@@ -5,6 +5,8 @@ public class WeaponSystem : MonoBehaviour {
 
 	public AudioSource reload;
 
+	public Animator animator;
+
 	public int[] Ammo;
 	public int ChoosenWeapon;
 
@@ -17,6 +19,8 @@ public class WeaponSystem : MonoBehaviour {
 	public float LoadTime;
 
 	public float timer;
+
+	public SphereManipulator falcon;
 
 	public void ChangeWeapons(int i) {
 		if (ChoosenWeapon != i) {
@@ -39,7 +43,7 @@ public class WeaponSystem : MonoBehaviour {
 	}
 
 	public void FindCrate() {
-		Ammo [0] += 2;
+		Ammo [0] += 5;
 		reload.Play ();
 	}
 
@@ -49,6 +53,7 @@ public class WeaponSystem : MonoBehaviour {
 		if (loadState == LoadState.NotLoaded) {
 			timer = LoadTime;		reload.Play ();
 			loadState = LoadState.Loading; // Quickload!
+			animator.SetTrigger("Reload");
 		}
 	}
 
@@ -59,6 +64,13 @@ public class WeaponSystem : MonoBehaviour {
 	public void FireWeapon() {
 		Ammo [ChoosenWeapon]--;
 		loadState = LoadState.NotLoaded;
+	}
+
+
+
+
+	public void OnDamage(object v) {
+		animator.SetTrigger ("Hit");
 	}
 
 	// Use this for initialization
@@ -74,6 +86,10 @@ public class WeaponSystem : MonoBehaviour {
 		} else if (Input.GetButton("Load2")) {
 			ChangeWeapons(1);
 		}
+
+		if (falcon.button_states[1])
+			ChangeWeapons(1);
+			
 
 		switch (loadState) {
 		case LoadState.Loading:

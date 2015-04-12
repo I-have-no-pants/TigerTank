@@ -17,10 +17,10 @@ public class TrackPlayer : MonoBehaviour {
 		p.y = transform.position.y;
 		transform.position = p;
 
-		p = track.rotation.eulerAngles;
-		p.x = 0;
+		/*p = track.rotation.eulerAngles;
+		p.x = 90;
 		p.z = 0;
-		transform.rotation = Quaternion.Euler (p);
+		transform.rotation = Quaternion.Euler (p);*/
 	
 	}
 }

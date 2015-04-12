@@ -19,7 +19,7 @@ public class DualMonitorManager : MonoBehaviour {
 		rect.width = camS1;
 		cam1.rect = rect;
 
-		cam1_overlay.rect = rect;
+		//cam1_overlay.rect = rect;
 
 		rect = cam2.rect;
 		rect.width = 1f-camS1;
