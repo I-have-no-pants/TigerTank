@@ -8,6 +8,9 @@ public class GUIUtilities : MonoBehaviour {
 
 	public DualMonitorManager dualMonitorManager;
 
+	void Start() {
+		dualMonitorManager.SetScreenSplit (0.562f);
+	}
 
 	public void UpdateScreen() {
 		dualMonitorManager.SetScreenSplit (screenSlider.value);

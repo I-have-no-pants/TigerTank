@@ -728,8 +728,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Team: 1
-  _MAXHEALTH: 5
-  health: 5
+  _MAXHEALTH: 1
+  health: 1
 --- !u!114 &11417206
 MonoBehaviour:
   m_ObjectHideFlags: 1
