@@ -42,7 +42,7 @@ public class TurretControll2 : MonoBehaviour {
 
 
 		Vector3 angle = transform.localEulerAngles;
-		angle.x = ClampAngle(angle.x, -30.0f, 10.0f);
+		angle.x = ClampAngle(angle.x, -10.0f, 10.0f);
 		transform.localEulerAngles = angle;
 
 		var v = target.localPosition;

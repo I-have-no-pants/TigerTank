@@ -39,7 +39,7 @@ public class WeaponSystem : MonoBehaviour {
 	}
 
 	public void FindCrate() {
-		Ammo [0] += 5;
+		Ammo [0] += 2;
 		reload.Play ();
 	}
 

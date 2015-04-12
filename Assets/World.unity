@@ -1090,7 +1090,7 @@ Canvas:
   m_GameObject: {fileID: 381603798}
   m_Enabled: 1
   serializedVersion: 2
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 1436632396}
   m_PlaneDistance: .460000008
   m_PixelPerfect: 0
@@ -1691,8 +1691,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Team: 0
-  _MAXHEALTH: 1000
-  health: 1000
+  _MAXHEALTH: 100
+  health: 100
 --- !u!208 &529609930
 NavMeshObstacle:
   m_ObjectHideFlags: 0
@@ -3106,9 +3106,9 @@ RectTransform:
   - {fileID: 101113201}
   m_Father: {fileID: 1376287612}
   m_RootOrder: 2
-  m_AnchorMin: {x: 1, y: 0}
-  m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -166.199997, y: 9.80000019}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -166, y: -14}
   m_SizeDelta: {x: 317.109985, y: 18.8999939}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &1058088609
